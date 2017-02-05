@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic">
+        <item>"Јуче "</item>
+        <item>"Данас"</item>
+        <item>"Овај месец "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Јуче: "</item>
+        <item>"Данас: "</item>
+        <item>"Овај месец: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Јуче (подаци)</item>
+        <item>Данас (подаци)</item>
+        <item>Овај месец (подаци)</item>
+        <item>Јуче на WLAN-u</item>
+        <item>Данас на WLAN-u</item>
+        <item>Овај месец на WLAN-u</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Јуче (подаци)</item>
+        <item>Данас (подаци)</item>
+        <item>Овај месец (подаци)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Мобилни подаци "</item>
+        <item>"WLAN употреба "</item>
+        <item>"Уштедено података "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Мобилни подаци "</item>
+        <item>"WLAN употреба "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Употреба моб. података "</item>
+        <item>"WLAN употреба "</item>
+        <item>"Уштеда података "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Набавите аутоматски</item>
+        <item>Подесите ручно</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Покажи упозорење</item>
+        <item>Упозори и искључи мобилне податке</item>
+    </string-array>
+	<string-array name="roaming_apps_sorted_type">
+        <item>Често коришћено</item>
+        <item>Назив</item>
+    </string-array>
+		<string-array name="traffic_saving_compress_level_string_array">
+        <item>Ништа</item>
+        <item>Ниска</item>
+        <item>Средња</item>
+        <item>Висока</item>
+    </string-array>
+</resources>

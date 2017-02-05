@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Избрисати албуме %1$s (%2$s укупно)?</item>
+        <item quantity="one">Избрисати %1$s албум (%2$s укупно)?</item>
+   </plurals>
+	<plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">Одабране ставке, укључујући фотографије или видеозаписе у Mi Cloudu, избрисати оволико %s ставки са овог уређаја Mi Clouda?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">Одабране ставке, укључујући фотографије у Mi Cloudu, избрисати оволико %s фотографија са овог уређаја Mi Clouda?</item>
+        <item quantity="one">Одабрана ставка, укључујући фотографију у Mi Cloudu, избрисати  %s фотографију са овог уређаја Mi Clouda?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">Одабране ставке, укључујући видеозаписе у Mi Cloudu, избрисати оволико %s видеозаписа са овог уређаја и Mi Clouda?</item>
+        <item quantity="one">Одабрана ставка, укључујући видеозапис Mi Cloudu, избрисати  %s видеозапис са овог уређаја и Mi Clouda?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">Одабране ставке су фотографије или видеозаписи на Mi Cloudu, избрисати оволико %s ставки са Mi Clouda?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">Одабране ставке су фотографие на Mi Cloudu, избрисати оволико %s фотографија са Mi Clouda?</item>
+        <item quantity="one">Одабрана ставка је фотографија на Mi Cloudu, избрисати  %s фотографију са Mi Clouda?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">Одабране ставке су видезаписи на Mi Cloudu, избрисати оволико %s видеозаписа са Mi Clouda?</item>
+        <item quantity="one">Одабрана ставка је видеозапис на Mi Cloudu, избрисати  %s видеозапис са Mi Clouda?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">Избрисати  %s ставки из ово албума?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">Избрисати %s ставки?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+       <item quantity="other">"Избрисати фотографије (%s) u Mi Cloudu ?"</item>
+        <item quantity="one">"Избрисати фотографију (%s)u Mi Cloudu ?"</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Избрисати фотографије (%s)?</item>
+        <item quantity="one">Избрисати фотографију (%s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">"Избрисати видео записе (%s) у Mi Cloudu ?"</item>
+        <item quantity="one">"Избрисати видео запис (%s) у Mi Cloudu ?"</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Избрисати видео записе (%s)?</item>
+        <item quantity="one">Избрисати видео запис (%s)?</item>
+    </plurals>
+	<plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" " Избрисати  %1$d видео записе из %2$d албума?</item>
+        <item quantity="one">" " Избрисати  %1$d видео запис из %2$d албума?</item>
+    </plurals>
+	<plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">Избрисати %1$d слика из %2$d албума?</item>
+        <item quantity="one">Избрисати %1$d слику из %2$d albuma?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">"Одабрано: %1$d"</item>
+        <item quantity="zero">"Одабрано: %1$d"</item>
+        <item quantity="one">"Одабрано: %1$d"</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">Бр. слика: %1$d</item>
+        <item quantity="one">%d слика</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">Бр. видео записа: %d</item>
+        <item quantity="one">%d видео запис</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">Бр. мапа: %d</item>
+        <item quantity="one">%d мапа</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">"Немате допуштење за брисање ових датотека: %d."</item>
+        <item quantity="one">"Немате допуштење за брисање ове датотека."</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Можете одабрати оволико ставки: %d</item>
+        <item quantity="one">Можете одабрати %d ставку</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">Бр. ставка: %1$d</item>
+        <item quantity="zero">Бр. ставка: %1$d</item>
+        <item quantity="one">%1$d ставка</item>
+    </plurals>
+	<plurals name="more_face">
+        <item quantity="other">%1$s фотографија од %2$s</item>
+        <item quantity="one">%1$s фотографија од %2$s</item>
+    </plurals>
+	<plurals name="seconds">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">1 сек.</item>
+    </plurals>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">"Немој приказивати ова лица?"</item>
+        <item quantity="one">"Немој приказивати ово лице?"</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d фотографија од %2$s ће бити додато</item>
+        <item quantity="one">%1$d фотографија од %2$s ће бити додата</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d фотографија од %2$s ће бити додата</item>
+        <item quantity="one">%1$d фотографија од %2$s ће бити додата</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d година "</item>
+        <item quantity="one">"%1$d година "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_month">
+        <item quantity="other">"%1$d месеци "</item>
+        <item quantity="one">"%1$d месец "</item>
+    </plurals>
+	<plurals name="baby_age_subtitle_day">
+        <item quantity="other">"%1$d дана "</item>
+        <item quantity="one">"%1$d дан "</item>
+     </plurals>
+	  <plurals name="number_of_images_to_upload">
+        <item quantity="other">Слика (%1$d) за учитавање</item>
+        <item quantity="one">1 слика за учитавање</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">Видеозаписа (%1$d) за учитавање</item>
+        <item quantity="one">1 видеозапис за учитавање</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">Слика и видезаписа (%1$d) за учитавање</item>
+        <item quantity="one">1 слика и видеозапис за учитавање</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Учитавање %1$d слика...</item>
+        <item quantity="one">Учитавање 1 слике...</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Учитавање %1$d видеозаписа...</item>
+        <item quantity="one">Учитавање 1 видеозаписа</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Учитавање %1$d слика и видезаписа…</item>
+        <item quantity="one">Учитавање 1 слике и видеозаписа…</item>
+    </plurals>
+</resources>

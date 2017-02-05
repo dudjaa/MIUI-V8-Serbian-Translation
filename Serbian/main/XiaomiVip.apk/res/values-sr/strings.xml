@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action">Види</string>
+  <string name="already_used">Коришћено</string>
+  <string name="app_name">XiaomiVip</string>
+  <string name="award_taken">Бодови прикупљени</string>
+  <string name="award_time">Прикупљено на %s</string>
+  <string name="awarded_package_is_expired">Истекло</string>
+  <string name="awarded_package_was_redeemed">Откупљено</string>
+  <string name="browse">Pregled</string>
+  <string name="buff_enable">[ омогући ]</string>
+  <string name="cube_ptr_hours_ago"> сати раније</string>
+  <string name="cube_ptr_last_update">задњи апдејт: </string>
+  <string name="cube_ptr_minutes_ago"> минути раније</string>
+  <string name="cube_ptr_pull_down">Повуци доле</string>
+  <string name="cube_ptr_pull_down_to_refresh">Повуци доле за освежити</string>
+  <string name="cube_ptr_refresh_complete">Ажурирано.</string>
+  <string name="cube_ptr_refreshing">Ажурирам...</string>
+  <string name="cube_ptr_release_to_refresh">Пусти да освежиш</string>
+  <string name="cube_ptr_seconds_ago"> секунде раније</string>
+  <string name="days">%d д</string>
+  <string name="exp_buff">+%s%% бода</string>
+  <string name="experience">Бод</string>
+  <string name="expired">Истекло</string>
+  <string name="fail_reach_server">"Не могу да се повежем на сервер"</string>
+  <string name="giveup">Одустани</string>
+  <string name="hello">Поздрав</string>
+  <string name="hours">%d с</string>
+  <string name="in_progress">Шањем захтев…</string>
+  <string name="invalid_json">Нешто није у реду</string>
+  <string name="level">Ниво</string>
+  <string name="level_detail">Ограничење дневног изазова: %d</string>
+  <string name="level_exp_value" formatted="false">Бодова: %d/%d</string>
+  <string name="level_info_format" formatted="false">"Ниво %d %d/%d
+%s"</string>
+  <string name="millis">%d мс</string>
+  <string name="minutes">%d м</string>
+  <string name="my_award">Моје награде</string>
+  <string name="no_app">Молимо вас да прво инсталирате апликацију</string>
+  <string name="no_award">Нема награда</string>
+  <string name="no_network">"Не могу да се повежем на мрежу"</string>
+  <string name="no_task">Сви изазови су комплетирани</string>
+  <string name="passive_task">Позадински изазови</string>
+  <string name="privilege">Привилегијe</string>
+  <string name="promote">Ниво горе</string>
+  <string name="query_level_fail">"Не могу добити информацију"</string>
+  <string name="query_user_tasks_fail">"Не могу добити информацију задатка"</string>
+  <string name="seconds">%d сек.</string>
+  <string name="take_awarded_package">Откупити</string>
+  <string name="take_awarded_package_failed">"Не могу да откупим поклон. Сачекајте минут два и пробајте поново."</string>
+  <string name="task">изазови</string>
+  <string name="task_begin">У току…</string>
+  <string name="task_completed">Завршено</string>
+  <string name="task_done">Готово</string>
+  <string name="task_limit">Нема задатака лево за данас. Bидимо се сутра!</string>
+  <string name="task_not_completed">Није завршено</string>
+  <string name="task_ongoing">У току...</string>
+  <string name="task_score">%d поени</string>
+  <string name="task_select_title">Одабрати задатак</string>
+  <string name="task_start">Почетак</string>
+  <string name="task_take_award">Узми награде</string>
+  <string name="today_task">"Данашњи изазови"</string>
+  <string name="today_task_format" formatted="false">%d/%d</string>
+  <string name="unlimited_task">Специјални изазови</string>
+  <string name="upgraded">Ниво Горе!</string>
+  <string name="use">Користи</string>
+  <string name="validity">Истиче на %s</string>
+</resources>

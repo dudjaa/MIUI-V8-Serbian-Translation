@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Ведро</item>
+        <item>Облачно</item>
+        <item>Наоблачење</item>
+        <item>Магловито</item>
+        <item>Тешки пљускови</item>
+        <item>Пљускови</item>
+        <item>Пљускови</item>
+        <item>Олуја</item>
+        <item>Пљускови</item>
+        <item>Јака киша</item>
+        <item>Умерена киша</item>
+        <item>Лагана киша</item>
+        <item>Киша са снегом</item>
+        <item>Вејавица</item>
+        <item>Снег</item>
+        <item>Густ снег</item>
+        <item>Умерен снег</item>
+        <item>Суснежица</item>
+        <item>Снажна пешчана олуја</item>
+        <item>Пешчана олуја</item>
+        <item>Слаба пешчана олуја</item>
+        <item>Ветровито</item>
+        <item>Град</item>
+        <item>Прашњаво</item>
+        <item>Сумаглица</item>
+        <item>Ледена киша</item>
+        <item>Нема података</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Најслабије</item>
+        <item>Слабије</item>
+        <item>Средње</item>
+        <item>Јако</item>
+        <item>Најјаче</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Ветар S</item>
+        <item>Ветар SI</item>
+        <item>Ветар I</item>
+        <item>Ветар JI</item>
+        <item>Ветар J</item>
+        <item>Ветар JZ</item>
+        <item>Ветар Z</item>
+        <item>Ветар SZ</item>
+	</string-array>	
+    <string-array name="moon_desc">
+        <item>Нови месец</item>
+        <item>Повећање српа</item>
+        <item>Прва четвртина</item>
+        <item>Млади месец</item>
+        <item>Пуни месец</item>
+        <item>Млади месец</item>
+        <item>Задња четвртина</item>
+        <item>Смањење српа</item>
+        <item>Тамни месец</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="IZAT_AGREE">Слажем се</string>
+  <string name="IZAT_DISAGREE">Не слажем се</string>
+  <string name="IZat_MENU_TEXT">Убрзање локација</string>
+  <string name="IZat_SUB_TITLE_TEXT">Користи Qualcomm&lt;sup&gt;&amp;reg;&lt;/sup&gt; IZat&lt;sup&gt;TM&lt;/sup&gt; хардверско убрзање локација</string>
+  <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/privacy_policy.html\"&gt;Одредбе и Правила о приватности&lt;/a&gt;</string>
+  <string name="POPUP_BOX_TEXT">Да бисте омогућили хардверско убрзање, допустите IZat za прикупљање података локације. IZat сачувава неке податке на ваш уређај, а може радити чак и када нема покренутих апликација.</string>
+  <string name="POPUP_BOX_TITLE">Локација приступа</string>
+  <string name="XT_APP_TITLE">Qualcomm IZat</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Прочитај ме</string>
+  <string name="bakc_key_toast_txt">За излазак, поново додирните дирку Назад</string>
+  <string name="cta_dialog_button_text">Слажем се и никад не саветуј</string>
+  <string name="cta_dialog_msg">"Спремате се за коришћење корисничког приручника који вам пружа фирма Xiaomi која вам пружа више узбудљивих опција. За пружање нетакнутих и ефикасних информација кориснички приручник се треба аутоматски ажурирати преко WLAN-a. Слажете ли се?
+ *Напомена: за излаз притисните дирку Назад"</string>
+  <string name="cta_dialog_title">Савет</string>
+  <string name="downloading_data">Преузимање…</string>
+  <string name="downloading_error">Грешка преузимања, покушајте поново касније!</string>
+  <string name="loading_userbook">Учитавање…</string>
+  <string name="non_wifi_not_download_data">"Не могу користити вашу мрежу података за преузимање овог пакета, покушајте поново када будете спојени на WLAN мрежу"</string>
+</resources>

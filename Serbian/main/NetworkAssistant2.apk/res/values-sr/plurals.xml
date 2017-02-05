@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Не прати употребу података за оволико (%d) апликација</item>
+        <item quantity="one">Не прати употребу података за %d апликацију</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Прати употребу података за оволико (%d) апликација</item>
+        <item quantity="one">Прати употрбу података за %d апликацију</item>
+    </plurals>
+		<plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">Оволико апликација (%d) је оптимизовано</item>
+        <item quantity="one">%d апликација оптимизована</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">Оволико апликација (%d) може бити оптимизовано</item>
+        <item quantity="one">%d апликација може бити оптимизована</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">Оволико апликација (%d) користи Уштеду Података</item>
+        <item quantity="one">%d апликација користи Уштеду Података</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+     	<item quantity="other">Оволико апликација (%d) не користи Уштеду Података</item>
+        <item quantity="one">%d апликација не користи уштеду података</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Коришћено пре (%d) дана</item>
+        <item quantity="one">Јуче коришћено</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Претраживање (%d) апликација</item>
+        <item quantity="one">Претраживање %d апликације</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">Оволико апликација (%d) може користити мобилне податке</item>
+        <item quantity="one">%d апликација може користити мобилне податке</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"Оволико апликација (%d) не може користити мобилне податке"</item>
+        <item quantity="one">"%d апликација не може користити мобилне податке"</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Пронађено (%d) апликација</item>
+        <item quantity="one">%d апликација пронађена</item>
+    </plurals>
+</resources>
