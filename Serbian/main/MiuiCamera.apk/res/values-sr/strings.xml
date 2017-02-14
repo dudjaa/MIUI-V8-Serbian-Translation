@@ -21,6 +21,7 @@
      <string name="accessibility_open_more_ptions">Омогући више опција</string>
      <string name="accessibility_panorama_review_cancel">Одустани</string>
      <string name="accessibility_peak">Тастер Focus-Peak</string>
+     <string name="accessibility_portrait_button">Портрет</string>
      <string name="accessibility_review_thumbnail">Најновије фотографије</string>
      <string name="accessibility_seek_bar_line">SeekBarLine</string>
      <string name="accessibility_setting_button">Тастер додат. подешавања</string>
@@ -33,6 +34,7 @@
      <string name="accessibility_video_capture_button">Видео снимање дугме</string>
      <string name="accessibility_video_module_picker">VideoModulePicker</string>
      <string name="accessibility_video_pause_button">Видео пауза дугме</string>
+     <string name="accessibility_zoom_button">Увећај</string>
      <string name="accessibility_zoom_control">Контрола зумирања</string>
      <string name="albums">Албуми</string>
      <string name="aperture">Отвор бленде</string>
@@ -175,6 +177,8 @@
      <string name="group_by_location">Локација</string>
      <string name="group_by_tags">Ознаке</string>
      <string name="group_by_time">Време</string>
+     <string name="groupshot_mode_use_hint">"Више фотографија ће бити одабрано за најбољи 
+израз лица који ће бити синтетизован у фотографију"</string>
      <string name="hand_night_exit_button_text">Излаз из ноћног начина</string>
      <string name="hdr_exit_button_text">Напусти HDR начин</string>
      <string name="height">Висина</string>
@@ -419,6 +423,7 @@
      <string name="pref_camera_picturesize_entry_standard">Стандардно 4:3</string>
      <string name="pref_camera_picturesize_title">Величина фотографије</string>
      <string name="pref_camera_picturesize_title_simple_mode">Оквир фотоапарата</string>
+     <string name="pref_camera_portrait_mode_title">Портрет</string>
      <string name="pref_camera_raw_data_title">RAW</string>
      <string name="pref_camera_raw_title">RAW</string>
      <string name="pref_camera_recordlocation_entry_off">Искључено</string>
@@ -482,7 +487,7 @@
      <string name="pref_camera_volumekey_function_entry_exposure">Експозиција</string>
      <string name="pref_camera_volumekey_function_entry_shutter">Окидач</string>
      <string name="pref_camera_volumekey_function_entry_volume">Гласноћа</string>
-     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
+     <string name="pref_camera_volumekey_function_entry_zoom">Увећање</string>
      <string name="pref_camera_volumekey_function_title">Функција тастера гласноће</string>
      <string name="pref_camera_watermark_title">Ознака времена</string>
      <string name="pref_camera_whitebalance_entry_auto">Ауто</string>
@@ -494,6 +499,7 @@
      <string name="pref_camera_whitebalance_entry_measure">Мерење</string>
      <string name="pref_camera_whitebalance_k_value_title">Вредност К</string>
      <string name="pref_camera_whitebalance_title">Баланс беле</string>
+     <string name="pref_camera_zoom_mode_title">Zoom</string>
      <string name="pref_camera_zsl_entry_off">Искључено</string>
      <string name="pref_camera_zsl_entry_on">Укључено</string>
      <string name="pref_camera_zsl_title">ZSL (без одлагања)</string>
@@ -612,6 +618,7 @@
      <string name="simple_mode_button_text_mono">Искључи Mono</string>
      <string name="simple_mode_button_text_opti_zoom">Искључи</string>
      <string name="simple_mode_button_text_panorama">Искључи панораму</string>
+     <string name="simple_mode_button_text_portrait_mode">Искључи Портрет</string>
      <string name="simple_mode_button_text_raw">Искључи RAW</string>
      <string name="simple_mode_button_text_scene">Искључи начин сцена</string>
      <string name="simple_mode_button_text_slow_video">Искључи брзо снимање</string>
