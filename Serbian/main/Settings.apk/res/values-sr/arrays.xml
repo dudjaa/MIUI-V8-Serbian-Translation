@@ -347,17 +347,6 @@
         <item>Курзив</item>
         <item>Мала слова</item>
      </string-array>
-     <string-array name="captioning_typeface_selector_values">
-        <item></item>
-        <item>sans-serif</item>
-        <item>sans-serif-consended</item>
-        <item>sans-serif-monospace</item>
-        <item>serif</item>
-        <item>serif-monospace</item>
-        <item>casual</item>
-        <item>cursive</item>
-        <item>sans-serif-smallcaps</item>
-     </string-array>
      <string-array name="change_security_lock_picker">
         <item>Откључавање лицем</item>
         <item>Образац</item>
@@ -440,11 +429,6 @@
         <item>4.0 инча</item>
         <item>3.5 инча</item>
      </string-array>
-     <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
-     </string-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Јако</item>
         <item>Средња</item>
@@ -482,15 +466,6 @@
         <item>Роза</item>
         <item>Бела</item>
         <item>Љубичаста</item>
-     </string-array>
-     <string-array name="led_color_values">
-        <item>плава</item>
-        <item>црвена</item>
-        <item>жута</item>
-        <item>зелено</item>
-        <item>црно</item>
-        <item>бело</item>
-        <item>\#FFAA00AA</item>
      </string-array>
      <string-array name="led_freq_entries">
         <item>2 секунде</item>
@@ -812,13 +787,6 @@
         <item>Брзо</item>
         <item>Брже</item>
      </string-array>
-     <string-array name="tts_rate_xunfei_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-     </string-array>
      <string-array name="usage_stats_display_order_types">
         <item>Време употребе</item>
         <item>Покрени бројање</item>
@@ -865,12 +833,6 @@
         <item>Ниско</item>
         <item>Средње</item>
         <item>Високо</item>
-     </string-array>
-     <string-array name="whetstone_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
      </string-array>
      <string-array name="wifi_calling_mode_choices">
         <item>WLAN преферирано</item>

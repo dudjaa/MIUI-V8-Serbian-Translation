@@ -70,7 +70,6 @@
   <string name="color_picker_dialog_title">Одабери боју</string>
   <string name="color_picker_hue">Нијанса</string>
   <string name="color_picker_saturation">Засићеност</string>
-  <string name="color_picker_value">Вредност</string>
   <string name="contextmenu_popupwindow_addContact">Додај контакт</string>
   <string name="contextmenu_popupwindow_copy">Копирај</string>
   <string name="contextmenu_popupwindow_copyImage">Сачувај слику</string>
@@ -265,7 +264,6 @@
   <string name="webview_js_dialog_before_unload_positive_button">Напусти ову страницу</string>
   <string name="webview_js_dialog_before_unload_title">Напусти ову страницу?</string>
   <string name="webview_js_dialog_title">Страница \"%s\" објављује:</string>
-  <string name="webview_js_dialog_title_default">JavaScript</string>
   <string name="webview_last_month">Последњи месец</string>
   <string name="webview_no_matches">Нема резултата</string>
   <string name="webview_ok">У реду</string>

@@ -18,10 +18,6 @@
   <string name="cit_audio_cali_playing">Притисните тастер за почетак калибрирања</string>
   <string name="cit_audio_cali_summary">Калибрирај PA звучник</string>
   <string name="cit_audio_cali_title">Тест калибрације PA звучника</string>
-  <string name="cit_audio_cali_valueC">Бројач:</string>
-  <string name="cit_audio_cali_valueF0">F0:</string>
-  <string name="cit_audio_cali_valueR">Ref_diff:</string>
-  <string name="cit_audio_cali_valueT">Temp_acc:</string>
   <string name="cit_audio_calibrating">Калибрирање у току…</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Тестирање задњег звучника микрофона</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Тестирање главног звучника микрофона</string>

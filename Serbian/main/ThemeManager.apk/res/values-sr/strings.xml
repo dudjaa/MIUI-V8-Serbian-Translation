@@ -346,7 +346,6 @@
   <string name="theme_precast_create_notification_title">Ажурирано на MIUI 7</string>
   <string name="theme_precast_update_notification_content">Додирните за приказ нових тема.</string>
   <string name="theme_precast_update_notification_title">Ажурирано на MIUI 7</string>
-  <string name="theme_provision_default_theme_title">Задато</string>
   <string name="theme_provision_loading_tips">Само тренутак…</string>
   <string name="theme_provision_oper_button_next">Даље</string>
   <string name="theme_provision_title">Одаберите тему</string>
@@ -370,7 +369,6 @@
   <string name="title_component">Прилагодите тему</string>
   <string name="title_system_resource">Preuzeto</string>
   <string name="to_activate_the_account">Активирајте свој Mi Рачун</string>
-  <string name="vip_level_value">LV%d</string>
   <string name="wallpaper_crop">Обрежи</string>
   <string name="wallpaper_decoded_error">"Не могу учитати слику позадине"</string>
   <string name="wallpaper_loading_text">Учитавање…</string>

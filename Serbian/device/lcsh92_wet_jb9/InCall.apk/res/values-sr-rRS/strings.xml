@@ -46,7 +46,6 @@
   <string name="cb_channel_dialog_channel_number">Број канала (0-65534)</string>
   <string name="cb_channel_dialog_channel_state">Омогући канал</string>
   <string name="cb_channel_dialog_edit_channel">Уреди канал</string>
-  <string name="cb_default_new_channel_name">Нови канал</string>
   <string name="cb_dialog_title_language_choice">Одабери језик</string>
   <string name="cb_error_channel_id_exist">ID канала већ постоји.</string>
   <string name="cb_error_channel_name">Дужина имена канала није тачна (1-10 знакова).</string>
@@ -70,7 +69,6 @@
   <string name="confirm_save_info_saved">Снимак је сачуван</string>
   <string name="data_conn_under_roaming_hint">Омогућите роминг података у Подешавања -&gt; Мобилне мреже -&gt; Подешавања Мобилне мреже -&gt; Data Roaming</string>
   <string name="deactivate_all">Откажи све</string>
-  <string name="default_notification_description">Задати звук (%1$s)</string>
   <string name="description_search_button">претражи</string>
   <string name="dialog_network_priority_title">Приоритет</string>
   <string name="disable_data_connection_msg">Претраживање свих доступних мрежа ће искључити мобилну податковну мрежу која је у употреби. Онемогућити?</string>
@@ -118,7 +116,6 @@
   <string name="international_dialing_add_country_code" formatted="false">"Изгледа као да бирате %s број. Зелите ли додати код државе (+%s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code">"Изгледа као да бирате број у %1$s, %2$s. Желите ли додати позивни број земље и позивни број места (+%3$s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code_without_prefix">Желите ли додати позивни број земље и позивни број места?</string>
-  <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Откривено је да бирате број у %s.  Ако ваше одредиште није %s, унесите позивни број места."</string>
   <string name="international_dialing_add_country_code_input_area_code">"Изгледа као да бирате број у %1$s. Унесите позивни број места."</string>
   <string name="international_dialing_area_code">Позивни број</string>
   <string name="international_dialing_call_button">Позив</string>
@@ -138,7 +135,6 @@
   <string name="invalid_password">Унесите лозинку (4 цифре)</string>
   <string name="ip_dial_error_toast_for_no_ip_prefix_number">Унесите IP позивни број први у подешавањима гласовних позива.</string>
   <string name="ip_dial_error_toast_for_sip_call_selected">Функција IP бирања није могућа на интернет позиву.</string>
-  <string name="ip_prefix_edit_default_sum">Унесите IP позивни број</string>
   <string name="ip_prefix_setting">IP позивни број</string>
   <string name="ip_prefix_setting_sum">Подешавања IP позивног броја</string>
   <string name="labelCFC">Откажи сва прослеђивања</string>
@@ -378,7 +374,6 @@
   <string name="vt_peer_video_rep">Peer видео замена</string>
   <string name="vt_peer_video_rep_des">Подесите слику за приказ када је peer видео недоступан</string>
   <string name="vt_pic_replace_local">Слика за замену локалног видеа</string>
-  <string name="vt_pic_replace_local_default">Задата слика</string>
   <string name="vt_pic_replace_local_description">Подесите слику за приказ када је Камера искључена из употребе</string>
   <string name="vt_pic_replace_local_freezeme">Замрзни ме</string>
   <string name="vt_pic_replace_local_mypic">Моја слика</string>

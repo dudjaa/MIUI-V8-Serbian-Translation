@@ -1044,7 +1044,6 @@
      <string name="resource_account_login_before_action">Пријавите се на ваш Mi Рачун.</string>
      <string name="resource_account_login_title">Пријава</string>
      <string name="resource_account_switch">Промени</string>
-     <string name="resource_alarm_default">Аларм</string>
      <string name="resource_app_name">Извор претраживача</string>
      <string name="resource_apply">Примени</string>
      <string name="resource_apply_trial">Испробајте</string>
@@ -1065,7 +1064,6 @@
      <string name="resource_comment_date">%1$02d-%2$02d</string>
      <string name="resource_comment_edit_comment">Додај коментар</string>
      <string name="resource_comment_edit_comment_waiting">Проверавам историју…</string>
-     <string name="resource_comment_edit_text_default">Додај коментар</string>
      <string name="resource_comment_edit_title">Уреди коментар: %1$s</string>
      <string name="resource_comment_entry_tips">Коментари (%1$s)</string>
      <string name="resource_comment_expand_full_text">Прошири сав текст ▼</string>
@@ -1073,7 +1071,6 @@
      <string name="resource_comment_good_comments">Позитивни коментари</string>
      <string name="resource_comment_invalid">Додирни звезду да оцениш</string>
      <string name="resource_comment_loading_list">Учитавам коментаре…</string>
-     <string name="resource_comment_name_default">Корисник %1$s</string>
      <string name="resource_comment_no_average_score">N/A</string>
      <string name="resource_comment_no_comment">Нема коментара</string>
      <string name="resource_comment_publish">Пошаљи</string>
@@ -1088,8 +1085,6 @@
      <string name="resource_comment_upload_not_bought">Морате подесити тему пре писања коментара.</string>
      <string name="resource_comment_upload_not_logined">Нисте пријављени!</string>
      <string name="resource_comment_upload_success">Коментар ће се објавити након што буде прегледан</string>
-     <string name="resource_default">Задана мелодија звона</string>
-     <string name="resource_default_name">Извори</string>
      <string name="resource_delete">Избрисати</string>
      <string name="resource_delete_all">Избрисати %1$d одабране елементе?</string>
      <string name="resource_delete_confirm">Избрисати одабране елементе?</string>
@@ -1152,7 +1147,6 @@
      <string name="resource_no_match_app">Нема пронађених апликација за извршавање ове радње.</string>
      <string name="resource_no_network_text">"Не могу се повезати на мрежу."</string>
      <string name="resource_no_result">"Ништа није пронађено"</string>
-     <string name="resource_notification_default">Обавештења</string>
      <string name="resource_on_trial">Испробавам: %1$s</string>
      <string name="resource_online">Мрежно %1$s</string>
      <string name="resource_pack_confirm">"И ако сте већ купили %1$d компоненти ове теме, јосш је увек јефтиније ако купите цели пакет."</string>
@@ -1170,7 +1164,6 @@
      <string name="resource_ranking">Популарно</string>
      <string name="resource_ranking_free">Бесплатно</string>
      <string name="resource_ranking_purchase">Уз плаћање</string>
-     <string name="resource_ringtone_default">Мелодија звона</string>
      <string name="resource_ringtone_playing_error">Грешка</string>
      <string name="resource_ringtone_volume_mute">Звоно је утишано</string>
      <string name="resource_save_to_note">Сачувај у белешке</string>

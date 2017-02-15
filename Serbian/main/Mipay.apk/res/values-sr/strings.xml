@@ -97,7 +97,6 @@
   <string name="mipay_login_password_error">Проверите своју лозинку за Xiaomi рачун</string>
   <string name="mipay_nfc_balance_limit_title">E-Cash Стање Лимита</string>
   <string name="mipay_nfc_bank_card_details_title">Банк. картица</string>
-  <string name="mipay_nfc_bank_card_name_default">A Bank</string>
   <string name="mipay_nfc_card_balance_title">Стање</string>
   <string name="mipay_nfc_card_title">NFC Читач картица</string>
   <string name="mipay_nfc_card_valid_date">"Вредни део "</string>
@@ -118,7 +117,6 @@
   <string name="mipay_nfc_per_limit_title">Per-Trade Limit</string>
   <string name="mipay_nfc_record_empty">Нема записа</string>
   <string name="mipay_nfc_record_title">Записи</string>
-  <string name="mipay_nfc_shop_name_default">Без имена</string>
   <string name="mipay_nfc_support_list_tip">&lt;u&gt;Подржане картице&lt;/u&gt;</string>
   <string name="mipay_nfc_support_tip">Користите свој Mi урешај било где је NFC подржан, од банкомата до јавног превоза.</string>
   <string name="mipay_nfc_tail_num_hint">Tail Num: %1$s</string>
@@ -133,7 +131,6 @@
   <string name="mipay_order_change">Замени</string>
   <string name="mipay_order_choose">Користи:</string>
   <string name="mipay_order_denom">Цена:</string>
-  <string name="mipay_order_denom_value">￥%1$s</string>
   <string name="mipay_order_id">Наруџбина:</string>
   <string name="mipay_order_title">Производ:</string>
   <string name="mipay_pass_err_find">Пронађи лозинку</string>

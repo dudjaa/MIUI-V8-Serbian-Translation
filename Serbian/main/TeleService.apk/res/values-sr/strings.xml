@@ -698,7 +698,6 @@
   <string name="msim_not_set_summary">Није подешено</string>
   <string name="msim_pref_title_data">Интернет</string>
   <string name="msim_pref_title_voice">Бирање</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">Грешка ICC картице</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Не могу подесити током позива"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Грешка SIM картице</string>

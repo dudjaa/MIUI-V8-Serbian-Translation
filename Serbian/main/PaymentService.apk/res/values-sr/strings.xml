@@ -125,7 +125,6 @@
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s Mi Кредити подела.</string>
   <string name="giftcard_record">Моје поклон картице</string>
   <string name="giftcard_title">Mi Кредити поклон картице</string>
-  <string name="giftcard_value">Укључује %1$s-Mi Кредити поклон картицу</string>
   <string name="illegal_intent">Илегалан захтев намере</string>
   <string name="label_balance">Стање:</string>
   <string name="label_giftcard">Поклон картица:</string>
@@ -301,7 +300,6 @@
   <string name="title_transaction">Трансакције</string>
   <string name="title_visible_pattern">Учините образац видљивим</string>
   <string name="unit">Mi Кредита</string>
-  <string name="unit_value">Mi Кредита: %1$s</string>
   <string name="voucher_card_text">Изгребите површину</string>
   <string name="voucher_edit_limit">унесите цифре</string>
   <string name="voucher_error_password">Неважећи код.</string>

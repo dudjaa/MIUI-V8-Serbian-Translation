@@ -54,7 +54,6 @@
      <string name="bt_toast_6">Заустављено слање примаоцу „%1$s“</string>
      <string name="btopp_live_folder">Примљено преко Bluetooth-а</string>
      <string name="defaultname">Опрема за аутомобил</string>
-     <string name="defaultnumber">000000</string>
      <string name="deleteAll_record">Избриши све записе</string>
      <string name="delete_record">Избриши запис</string>
      <string name="device_picker">Подешавања Bluetooth уређајa</string>

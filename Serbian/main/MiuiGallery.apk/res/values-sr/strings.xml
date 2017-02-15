@@ -157,7 +157,6 @@
      <string name="baby_album_needs_auto_backup_tip">"Не могу искључити Сиг. копију за Дечији албум"</string>
      <string name="baby_album_new_photo_page_title">"%1$s албум"</string>
      <string name="baby_album_new_photo_remind">Имате нове фотографије у вашем дечијем албуму.</string>
-     <string name="baby_album_picker_default_title">"Одабери лице %1$s"</string>
      <string name="baby_album_setting_title">Информације о детету</string>
      <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,
 %3$s %4$s је поделио %5$s албум са тобом"</string>
@@ -244,7 +243,6 @@
      <string name="camera_disconnected">Фотоапарат је искључен.</string>
      <string name="camera_folder_display_name">Фотоапарат</string>
      <string name="camera_needs_auto_backup_tip">За фотографије камере треба направити Сиг. копију</string>
-     <string name="camera_path">/DCIM/Camera</string>
      <string name="camera_setas_wallpaper">Позадине</string>
      <string name="camera_view_none_message">Снимљене фотографије ће овде бити приказане.</string>
      <string name="cancel">Одустани</string>
@@ -1058,9 +1056,7 @@
      <string name="set_as_baby_lock_wallpaper">Подешено за позадину закљ. екрана</string>
      <string name="set_as_wallpaper_description">Ова слика је минијатура, преузети оригинал?</string>
      <string name="set_as_wallpaper_title">Постави за слику позадине</string>
-     <string name="set_baby_icon_picker_default_title">Подеси thumbnail фотографију</string>
      <string name="set_bg_file_exist_message">Ова ставка већ постоји</string>
-     <string name="set_bg_picker_default_title">Подеси насловну фотографију</string>
      <string name="set_bg_unknow_reasons">Непозната грешка</string>
      <string name="set_face_group_toast_msg_new_user">Држите фотографију особе за спајање или игнорисање те особе</string>
      <string name="set_face_group_toast_msg_old_user">"Држите фотографију особе за израду групе (породица, пријатељи, колеге, итд.)</string>

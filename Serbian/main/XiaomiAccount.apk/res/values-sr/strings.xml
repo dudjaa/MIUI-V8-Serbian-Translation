@@ -457,7 +457,6 @@
   <string name="vcode_prompt_long">Унесите код за проверу</string>
   <string name="verification_failed">Аутентификација није успела</string>
   <string name="verify">Провери</string>
-  <string name="vip_level_value">LV%d</string>
   <string name="wipe_data_dialog_msg">%s ће бити избрисано ако наставите.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Неке ставке нису биле синхронизоване."</string>

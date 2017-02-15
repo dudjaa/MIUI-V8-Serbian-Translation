@@ -319,17 +319,13 @@
   <string name="power_button_delete">Избриши</string>
   <string name="power_cell">Мобилни сигнал</string>
   <string name="power_center_auto_shutdown">Планирано укљ./искљ.</string>
-  <string name="power_center_auto_shutdown_summary_default">Укључивање или искључивање уређаја у одређено време</string>
   <string name="power_center_battery_full">Батерија је потпуно напуњена</string>
   <string name="power_center_charge_time">%1$s до потпуне попуњености</string>
   <string name="power_center_consume_rank">Потрошња батерије</string>
   <string name="power_center_consume_time">%1$s преостало</string>
-  <string name="power_center_custom_summary_default">Повећајте век трајања батерије са прилагођеним профилима</string>
   <string name="power_center_custom_title">Профили батерије</string>
-  <string name="power_center_low_battery_summary_default">Пребаци профил када је батерија при крају</string>
   <string name="power_center_low_battery_summary_dynamic">На %1$d%% пребаци на %2$s</string>
   <string name="power_center_low_battery_title">Штедња батерије</string>
-  <string name="power_center_on_time_summary_default">Пребаци профил батерије у одређено време</string>
   <string name="power_center_on_time_summary_dynamic">%1$s - %2$s пребаци на %3$s</string>
   <string name="power_center_on_time_title">Бирач планираног профила</string>
   <string name="power_center_ontime_boot">Време укључивања</string>
@@ -381,7 +377,6 @@
   <string name="power_dialog_cpu_state_save">Штедња батерије</string>
   <string name="power_dialog_cpu_state_save_desc">Батерија има приоритет над перформансама CPU-a</string>
   <string name="power_dialog_cpu_state_title">Употреба CPU-a</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_default">""Тренутно користите овај профил."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">"Ваш уређај је постављен за пребацивање на овај профил када је батерија слаба. Морате променити ваша подешавања да бисте могли обрисати овај профил."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Не могу избрисати: уређај је постављен да се пребаците на ову конфигурацију кад је батерија скоро празна, 
  Морате променити подешавања батерије пре него што можете обрисати ову конфигурацију."</string>

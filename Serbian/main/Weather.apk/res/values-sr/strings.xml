@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="account_unactivated">Рачун није активиран</string>
-     <string name="accuweather_default_url">http://www.accuweather.com</string>
      <string name="accuweather_tag">accu</string>
      <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
      <string name="act_find_city_hint">Унесите град</string>
@@ -70,7 +69,6 @@
      <string name="daily_forecast_detail_date">d/M</string>
      <string name="daily_forecast_no_data">"Не могу добити информације о времену
 Повуците доле да освежите или проверите мрежна подешавања"</string>
-     <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ss"</string>
      <string name="data_source_timezone">GMT %1$s</string>
      <string name="deleting">Брисање…</string>
      <string name="description_author">Аутор</string>
@@ -154,7 +152,6 @@
      <string name="resource_account_login_before_action">Пријавите се на ваш Mi Рачун.</string>
      <string name="resource_account_login_title">Пријавите се</string>
      <string name="resource_account_switch">Промена рачуна</string>
-     <string name="resource_alarm_default">Аларм</string>
      <string name="resource_app_name">Извор Претраживача</string>
      <string name="resource_apply">Примени</string>
      <string name="resource_apply_trial">Покушај сад</string>
@@ -175,7 +172,6 @@
      <string name="resource_comment_date">%1$02d-%2$02d</string>
      <string name="resource_comment_edit_comment">Додај коментар</string>
      <string name="resource_comment_edit_comment_waiting">Проверавам историју…</string>
-     <string name="resource_comment_edit_text_default">Напишите коментар</string>
      <string name="resource_comment_edit_title">Уреди коментар: %1$s</string>
      <string name="resource_comment_entry_tips">Коментара (%1$s)</string>
      <string name="resource_comment_expand_full_text">Прошири сав текст▼</string>
@@ -183,7 +179,6 @@
      <string name="resource_comment_good_comments">Позитивни</string>
      <string name="resource_comment_invalid">Додирните * да оцените</string>
      <string name="resource_comment_loading_list">Учитавање...</string>
-     <string name="resource_comment_name_default">Корисник %1$s</string>
      <string name="resource_comment_no_average_score">N/A</string>
      <string name="resource_comment_no_comment">Нема коментара</string>
      <string name="resource_comment_publish">Пошаљи</string>
@@ -198,8 +193,6 @@
      <string name="resource_comment_upload_not_bought">Морате подесити тему пре писања коментара.</string>
      <string name="resource_comment_upload_not_logined">Нисте пријављени!</string>
      <string name="resource_comment_upload_success">Коментар ће се објавити након што буде прегледан</string>
-     <string name="resource_default">Задата мелодија звона</string>
-     <string name="resource_default_name">Ресурси</string>
      <string name="resource_delete">Избриши</string>
      <string name="resource_delete_all">Избрисати одабране ставке: %1$d?</string>
      <string name="resource_delete_confirm">Избрисати одабране ставке?</string>
@@ -261,7 +254,6 @@
      <string name="resource_no_match_app">Није пронађена апликација за обраду ове радње.</string>
      <string name="resource_no_network_text">"Не могу се повезати на мрежу."</string>
      <string name="resource_no_result">"Ништа није пронађено"</string>
-     <string name="resource_notification_default">Обавештења</string>
      <string name="resource_on_trial">Испробавам: %1$s</string>
      <string name="resource_online">Мрежно %1$s</string>
      <string name="resource_pack_confirm">"И ако сте већ купили %1$d компоненте ове теме, још увек је јефтиније ако купите цели пакет."</string>
@@ -279,7 +271,6 @@
      <string name="resource_ranking">Популарно</string>
      <string name="resource_ranking_free">Бесплатно</string>
      <string name="resource_ranking_purchase">Уз плаћање</string>
-     <string name="resource_ringtone_default">Мелодија звона</string>
      <string name="resource_ringtone_playing_error">Грешка</string>
      <string name="resource_ringtone_volume_mute">Звоно је утишано</string>
      <string name="resource_save_to_note">Сачувај у белешке</string>
@@ -397,7 +388,6 @@
      <string name="weather_unit">°</string>
      <string name="weather_unit_middle">~</string>
      <string name="weather_unit_with_c">°C</string>
-     <string name="weatherchina_default_url">http://weather.com.cn</string>
      <string name="weatherchina_tag">weather.com.cn</string>
      <string name="wind_direction_no_data">Ветар</string>
 </resources>

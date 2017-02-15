@@ -10,8 +10,6 @@
   <string name="contact_your_admin_for_more_info">"Обратите се свом администратору за више информација, укључујући и правила о приватности ваше организације."</string>
   <string name="continue_provisioning_notify_text">Додирните за наставак подешавања вашег радног профила</string>
   <string name="continue_provisioning_notify_title">Шифровање завршено</string>
-  <string name="default_managed_profile_name">Радни профил</string>
-  <string name="default_owned_device_username">Корисник радног уређаја</string>
   <string name="delete_profile">Уклони</string>
   <string name="device_owner_cancel_cancel">Одустани</string>
   <string name="device_owner_cancel_message">"Јесте ли сигурни да желите да зауставите подешавање и брисање података ашег уређаја?"</string>

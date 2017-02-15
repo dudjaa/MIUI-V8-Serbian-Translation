@@ -212,7 +212,6 @@
   <string name="dialog_printing_hide">Сакриј</string>
   <string name="dialog_printing_ok">У реду</string>
   <string name="dialog_title_bpp_not_ready">Услуга је недоступна</string>
-  <string name="get_default_value">Дохвати задату вредност</string>
   <string name="number_of_copies">Задај број копија</string>
   <string name="orientation">Усмерење</string>
   <string name="pages_per_sheet">Страница по листу</string>

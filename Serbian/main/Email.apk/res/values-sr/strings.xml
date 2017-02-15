@@ -392,9 +392,6 @@
   <string name="debug_force_one_minute_refresh_label">Форсирај 1-минутно освежавање за POP/IMAP</string>
   <string name="debug_title">Отклањање грешака</string>
   <string name="default_">ЗАДАНО</string>
-  <string name="default_exchange">EXCHANGE</string>
-  <string name="default_imap">IMAP</string>
-  <string name="default_pop3">POP3</string>
   <string name="default_setup">ЗАДАТА ПОДЕШАВАЊА</string>
   <string name="default_signature">Послато са мог Mi Телефона</string>
   <string name="delete">Избриши</string>
@@ -816,8 +813,6 @@
   <string name="preference_swipe_description">Повуците лево да означите или избришете разговор у пристиглој пошти</string>
   <string name="preference_swipe_title_archive">Повуците да архивирате</string>
   <string name="preference_swipe_title_delete">Повуците да означите или избришете</string>
-  <string name="preferences_default_reply_all_summary">Употреби као задано за одговоре на поруке</string>
-  <string name="preferences_default_reply_all_title">Одговори свима</string>
   <string name="preferences_signature_dialog_title">Потпис</string>
   <string name="preferences_signature_summary_not_set">Није подешено</string>
   <string name="preferences_signature_title">Потпис</string>

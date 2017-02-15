@@ -192,7 +192,6 @@
      <string name="color_picker_dialog_title">Одаберите боју</string>
      <string name="color_picker_hue">Тон</string>
      <string name="color_picker_saturation">Засићење</string>
-     <string name="color_picker_value">Вредност</string>
      <string name="comment_app_menu">Коментар</string>
      <string name="comment_hint">Коментар</string>
      <string name="comment_menu">Коментар</string>
@@ -372,10 +371,6 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
      <string name="force_touch_bookmark_history_title">Oznake &amp; Povijest</string>
      <string name="force_touch_infoflow_title">Novosti</string>
      <string name="forward">Проследи</string>
-     <string name="general_set_default_browser_dialog_close_txt">Затвори</string>
-     <string name="general_set_default_browser_dialog_ok_txt">У реду</string>
-     <string name="general_set_default_browser_dialog_summary">Употреби MIUI-уграђене апликације за брже и једноставније перформансе</string>
-     <string name="general_set_default_browser_title">Подеси као изабрани Претраживач</string>
      <string name="geolocation_permissions_prompt_dont_share">Одбиj</string>
      <string name="geolocation_permissions_prompt_message">%s жели знати вашу локацију</string>
      <string name="geolocation_permissions_prompt_remember">запамти предности</string>
@@ -424,7 +419,6 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
      <string name="js_dialog_before_unload_positive_button">Напусти ову страницу</string>
      <string name="js_dialog_before_unload_title">Потврди</string>
      <string name="js_dialog_title">Страница на \" %s \" наводи:</string>
-     <string name="js_dialog_title_default">JavaScript</string>
      <string name="js_disable_confirm_message">Онемогућавање JavaScript може узроковати неисправан приказ неких страница</string>
      <string name="js_disable_confirm_title">Онемогућити JavaScript?</string>
      <string name="js_engine_flags">Постављање JS застава</string>
@@ -649,11 +643,6 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
      <string name="pref_data_preload_summary">: Допустити претраживачу предучитавање резултата претраживање велике сигурности у позадини</string>
      <string name="pref_data_preload_title">Претраживање резултата предучитавања</string>
      <string name="pref_data_title">Управљање пропусности</string>
-     <string name="pref_default_text_encoding">Кодирање текста</string>
-     <string name="pref_default_text_encoding_default">UTF-8</string>
-     <string name="pref_default_text_encoding_dialogtitle">Кодирање текста</string>
-     <string name="pref_default_zoom">Задато повећање/смањење</string>
-     <string name="pref_default_zoom_dialogtitle">Задато повећање/смањење</string>
      <string name="pref_development_cpu_upload_path">Омогући CPU путању учитавања</string>
      <string name="pref_development_error_console">Прикажи JavaScript конзолу</string>
      <string name="pref_development_hardware_accel">Омогући OpenGL рендирање</string>
@@ -699,9 +688,6 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
      <string name="pref_images_preload_dialogtitle">Предучитавање слика…</string>
      <string name="pref_images_preload_summary">": Предучитај слике кад сервер то допусти"</string>
      <string name="pref_images_preload_title">Предучитај слике</string>
-     <string name="pref_images_preload_value_always_summary">Увек предучитај слике</string>
-     <string name="pref_images_preload_value_never_summary">Никада не допустити претраживачу да предучита слике</string>
-     <string name="pref_images_preload_value_wifi_only_summary">Предучитај слике када је повезано на WLAN</string>
      <string name="pref_inverted">Обрнуто рендирање екрана</string>
      <string name="pref_inverted_category">Обрнуто рендирање екрана</string>
      <string name="pref_inverted_contrast">Контраст</string>
@@ -710,8 +696,6 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
      <string name="pref_link_prefetch_dialogtitle">Предучитавање web страница</string>
      <string name="pref_link_prefetch_summary">Допустити претраживачу  повезаних web страница у позадини</string>
      <string name="pref_link_prefetch_title">Предучитавање web страница</string>
-     <string name="pref_link_prefetch_value_never_summary">Никад не предучитавај повезане web странице</string>
-     <string name="pref_min_font_size_value">%dpt</string>
      <string name="pref_nav_mode_summary_pad">Pad</string>
      <string name="pref_nav_mode_summary_phone">Телефон</string>
      <string name="pref_nav_mode_title">Начин Претраживача</string>

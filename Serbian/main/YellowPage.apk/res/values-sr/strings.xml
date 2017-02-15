@@ -251,7 +251,6 @@
   <string name="more_coupons">Сви купони</string>
   <string name="navigation_search_all_cities">Сви градови</string>
   <string name="navigation_search_automatically_positioned_city">Тренутан град</string>
-  <string name="navigation_search_default_hint">Унесите речи које желите преправити (нпр. MIUI Адриа)</string>
   <string name="navigation_search_hot_cities">Популарно</string>
   <string name="navigation_search_no_city_list">"Ништа није пронађено"</string>
   <string name="navigation_search_positioning">Лоцирање</string>
@@ -302,7 +301,6 @@
   <string name="quick_yellow_page_tab_phones">Телефон</string>
   <string name="recharge_actual_price">Цена:</string>
   <string name="recharge_charge_range">Цена: ¥%1$s-%2$s</string>
-  <string name="recharge_charge_value">Цена: ¥%s</string>
   <string name="recharge_follow_name">Доплата</string>
   <string name="recharge_history">Историја доплате</string>
   <string name="recharge_history_empty">Нема историје</string>
@@ -346,7 +344,6 @@
   <string name="resource_account_login_before_action">Пријавите се на ваш Mi рачун</string>
   <string name="resource_account_login_title">Пријавите се</string>
   <string name="resource_account_switch">Промени</string>
-  <string name="resource_alarm_default">Аларм</string>
   <string name="resource_app_name">Извор прегледника</string>
   <string name="resource_apply">Пријемни</string>
   <string name="resource_apply_trial">Покушајте сада</string>
@@ -367,7 +364,6 @@
   <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Додај коментар</string>
   <string name="resource_comment_edit_comment_waiting">Проверавање историје корисника…</string>
-  <string name="resource_comment_edit_text_default">Напиши коментар</string>
   <string name="resource_comment_edit_title">Уреди коментар: %1$s</string>
   <string name="resource_comment_entry_tips">Види коментаре</string>
   <string name="resource_comment_expand_full_text">Прошири текст▼</string>
@@ -375,7 +371,6 @@
   <string name="resource_comment_good_comments">Позитивни коментари</string>
   <string name="resource_comment_invalid">Додирни звезду да оцениш</string>
   <string name="resource_comment_loading_list">Учитавање</string>
-  <string name="resource_comment_name_default">Корисник %1$s</string>
   <string name="resource_comment_no_average_score">Н/A</string>
   <string name="resource_comment_no_comment">Нема коментара</string>
   <string name="resource_comment_publish">Пошаљи</string>
@@ -390,8 +385,6 @@
   <string name="resource_comment_upload_not_bought">Морате подесити тему пре писања коментара.</string>
   <string name="resource_comment_upload_not_logined">Нисте пријављени!</string>
   <string name="resource_comment_upload_success">Коментар ће се објавити након што буде прегледан</string>
-  <string name="resource_default">Задата мелодија звона</string>
-  <string name="resource_default_name">Ресурси</string>
   <string name="resource_delete">Избрисати</string>
   <string name="resource_delete_all">ИЗБРИСАТИ %1$d одабране елементе?</string>
   <string name="resource_delete_confirm">Избрисати одабране елементе?</string>
@@ -445,7 +438,6 @@
   <string name="resource_mute">Ништа</string>
   <string name="resource_my">Локално</string>
   <string name="resource_no_result">"Ништа није пронађено"</string>
-  <string name="resource_notification_default">Обавештења</string>
   <string name="resource_on_trial">Испробавам: %1$s</string>
   <string name="resource_online">Мрежно %1$s</string>
   <string name="resource_pack_confirm">"Иако сте већ купили% 1 $ д компоненте ове теме, још је увек јефтиније ако купите цео пакет."</string>
@@ -462,7 +454,6 @@
   <string name="resource_ranking">Популарно</string>
   <string name="resource_ranking_free">Бесплатно</string>
   <string name="resource_ranking_purchase">Уз плаћање</string>
-  <string name="resource_ringtone_default">Мелодија звона</string>
   <string name="resource_ringtone_playing_error">Грешка плаћања</string>
   <string name="resource_ringtone_volume_mute">Ваша мелодија звона је утишана</string>
   <string name="resource_save_to_note">Спреми у белешке</string>

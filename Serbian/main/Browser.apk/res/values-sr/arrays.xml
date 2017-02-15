@@ -40,11 +40,6 @@
         <item>Само на WLAN-u</item>
         <item>Увек</item>
      </string-array>
-     <string-array name="pref_default_zoom_choices">
-        <item>Далеко</item>
-        <item>Средње</item>
-        <item>Близу</item>
-     </string-array>
      <string-array name="pref_fling_on_border_choices">
         <item>Страница напред/назад</item>
         <item>Замени екране</item>
