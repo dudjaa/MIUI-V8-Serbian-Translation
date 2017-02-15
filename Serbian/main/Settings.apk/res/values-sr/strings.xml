@@ -1143,11 +1143,11 @@
      <string name="device_admin_warning">Активирањем овог администратора омогућићете апликацији %1$s да обави следеће операције:</string>
      <string name="device_complete_parameters">Dovršeno</string>
      <string name="device_cpu">CPU</string>
-     <string name="device_cpu10_info">"10-jezgreni "</string>
-     <string name="device_cpu2_info">"2-језгрени"</string>
-     <string name="device_cpu4_info">"4-језгрени"</string>
-     <string name="device_cpu6_info">"6-jezgreni "</string>
-     <string name="device_cpu8_info">"8-језгрени"</string>
+     <string name="device_cpu10_info">"10-језгарни "</string>
+     <string name="device_cpu2_info">"2-језгарни"</string>
+     <string name="device_cpu4_info">"4-језгарни"</string>
+     <string name="device_cpu6_info">"6-језгарни "</string>
+     <string name="device_cpu8_info">"8-језгарни"</string>
      <string name="device_display_layout_title">Функције</string>
      <string name="device_edit_title">Преименуј уређај</string>
      <string name="device_feedback">Пошаљи повр. информације о уређају</string>
