@@ -48,10 +48,10 @@
         <item>Измаглица</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Themes</item>
-        <item>Widgets</item>
-        <item>Wallpaper</item>
-        <item>Effects</item>
-        <item>Layout</item>
+        <item>Теме</item>
+        <item>Виџети</item>
+        <item>Позадине</item>
+        <item>Ефекти</item>
+        <item>Распоред</item>
     </string-array>
 </resources> 

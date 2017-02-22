@@ -24,16 +24,16 @@
         <item>Анимација размера 10x</item>
      </string-array>
      <string-array name="anr_record_interval_entries">
-        <item>10 sek</item>
-        <item>20 sek</item>
-        <item>30 sek</item>
-        <item>1 min</item>
+        <item>10 сек</item>
+        <item>20 сек</item>
+        <item>30 сек</item>
+        <item>1 мин</item>
      </string-array>
      <string-array name="apn_auth_entries">
         <item>Ништа</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP ili CHAP</item>
+        <item>PAP или CHAP</item>
      </string-array>
      <string-array name="app_install_location_entries">
         <item>Интерно меморисање на уређај</item>
@@ -400,12 +400,11 @@
         <item>Позивни сноп за функцију glGetError</item>
      </string-array>
      <string-array name="entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
+        <item>Нормалан</item>
+        <item>Средњи</item>
+        <item>Велики</item>
+        <item>Огроман</item>
+        <item>Godzilla</item>
      </string-array>
      <string-array name="entries_zen_mode">
         <item>Искључено</item>
@@ -488,6 +487,24 @@
         <item>10 минута</item>
         <item>30 минута</item>
      </string-array>
+     <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>Одмах</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+     </string-array>
+     <string-array name="long_press_timeout_selector_titles">
+        <item>Кратко</item>
+        <item>Средње</item>
+        <item>Дуго</item>
+     </string-array>
+     <string-array name="long_press_volume_down_action">
+        <item>Ништа</item>
+        <item>Quick snap начин (фотографија)</item>
+        <item>Quick snap начин (видеозапис)</item>
+        <item>Градски превоз</item>
+     </string-array>
      <string-array name="max_number_titles">
         <item>6</item>
         <item>5</item>
@@ -501,6 +518,14 @@
         <item>Јако</item>
         <item>Средње</item>
         <item>Лагано</item>
+     </string-array>
+     <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
      </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP и старије</item>
@@ -526,6 +551,20 @@
         <item>Мрежа је спора због превише промета</item>
         <item>Мрежа је спора због слабе снаге сигнала</item>
         <item>Премештање…</item>
+     </string-array>
+     <string-array name="overlay_display_devices_entries">
+        <item>Ништа</item>
+        <item>480 p</item>
+        <item>480 p (сигурно)</item>
+        <item>720 p</item>
+        <item>720 p (сигурно)</item>
+        <item>1080 p</item>
+        <item>1080 p (сигурно)</item>
+        <item>4000</item>
+        <item>4000 (сигурно)</item>
+        <item>4000 (повећање резолуције)</item>
+        <item>4000 (повећ. резолуције., сигурно)</item>
+        <item>720 p, 1080 p (двојни екран)</item>
      </string-array>
      <string-array name="perm_hips_action">
         <item>Допусти</item>
@@ -561,6 +600,60 @@
      <string-array name="priority_storage_entries">
         <item>Унутрашња меморија</item>
         <item>Спољна меморија</item>
+     </string-array>
+     <string-array name="privacy_password_function_specfication_names">
+        <item>Поруке</item>
+        <item>фотографије</item>
+        <item>Датотеке</item>
+        <item>Белешке</item>
+        <item>Закљ. аплик.</item>
+        <item>Дечији начин</item>
+     </string-array>
+     <string-array name="proc_stats_memory_states">
+        <item>Уобичајена</item>
+        <item>Умерена</item>
+        <item>Ниска</item>
+        <item>Критична</item>
+     </string-array>
+     <string-array name="proc_stats_process_states">
+        <item>Постојана</item>
+        <item>Главна активност</item>
+        <item>Важна (у првом плану)</item>
+        <item>Важна (у позадини)</item>
+        <item>Резервна</item>
+        <item>Тешка</item>
+        <item>Услуга (изводи се)</item>
+        <item>Услуга (поновно покретање)</item>
+        <item>Пријемник</item>
+        <item>Кућа</item>
+        <item>Последња активност</item>
+        <item>Кеш меморија (активност)</item>
+        <item>Кеш меморија (клијент активности)</item>
+        <item>Кеш меморија (празна)</item>
+     </string-array>
+     <string-array name="ram_states">
+        <item>уобичајено</item>
+        <item>умерено</item>
+        <item>ниско</item>
+        <item>критично</item>
+     </string-array>
+     <string-array name="screen_button_style">
+        <item>Левак</item>
+        <item>Дешњак</item>
+     </string-array>
+     <string-array name="screen_color_title">
+        <item>Топло</item>
+        <item>Стандардно</item>
+        <item>Хладно</item>
+     </string-array>
+     <string-array name="screen_key_long_press_action">
+        <item>Ништа</item>
+        <item>Прикажи недавне апликације</item>
+        <item>Покрени управнике</item>
+        <item>Покрени Google now</item>
+        <item>Затвори тренутну апликацију</item>
+        <item>Покрени Брзо претраживање</item>
+        <item>Прикажи Мени</item>
      </string-array>
      <string-array name="screen_key_long_press_timeout">
         <item>0.5 секунде</item>
