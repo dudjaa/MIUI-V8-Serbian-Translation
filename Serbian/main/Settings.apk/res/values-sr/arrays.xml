@@ -696,11 +696,6 @@
         <item>10 минута</item>
         <item>30 минута</item>
      </string-array>
-     <string-array name="security_settings_premium_sms_values">
-        <item>Постави питање</item>
-        <item>Не допуштај никада</item>
-        <item>Допусти увек</item>
-     </string-array>
      <string-array name="select_logd_size_summaries">
         <item>64 KB по баферу.</item>
         <item>256 KB по баферу.</item>

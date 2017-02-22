@@ -218,7 +218,6 @@
   <string name="prepaid_picker_hint_2_1">2.</string>
   <string name="prepaid_picker_hint_2_2_a">"Одабрана номинална вредност мора бити у складу са оном из припејд картице. Одабир друге вредности ће поништити картицу. Ова апликација се не може поништити."</string>
   <string name="prepaid_picker_hint_2_2_b">Ако номинална вредност припејд картице није &lt;font color=red&gt;￥%1$s&lt;/font&gt;, картица ће бити неважећа. Xiaomi није одговоран за било који губитак новца који се може јавити као резултат грешке корисника..</string>
-  <string name="prepaid_picker_title_default">Одаберите износ</string>
   <string name="prepaid_picker_title_selected">Износ</string>
   <string name="process_expired">"Где сте били? Ова радња је истекла."</string>
   <string name="progress_bankcall_card_creating">Стварање наруџбине…</string>

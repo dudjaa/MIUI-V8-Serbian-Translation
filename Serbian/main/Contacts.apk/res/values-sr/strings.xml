@@ -2,7 +2,6 @@
 <resources>
      <string name="accessibility_calllog_detail">Појединости историје позива</string>
      <string name="account_container_title">Увезено из</string>
-     <string name="account_default">Телефон</string>
      <string name="account_phone">Само на телефону, без синхронизације</string>
      <string name="account_sim">SIM картица</string>
      <string name="account_sim2">SIM картица %d</string>
@@ -167,7 +166,6 @@
      <string name="clearFrequentsConfirmation_title">"Брисати податке о честим контактима?"</string>
      <string name="clearFrequentsProgress_title">"Брисање често контактираних…"</string>
      <string name="clear_copy_number_description">Избриши копиран број</string>
-     <string name="clear_default">Избриши задато</string>
      <string name="clear_digits">Избриши телефонски број</string>
      <string name="click_close">Дотакните екран да би сте затворили</string>
      <string name="clip_dialog_title">Бирати копирани број?</string>
@@ -279,7 +277,6 @@
      <string name="date_picker_label">Подсети ме 3 дана пре, и још једном на сами дан</string>
      <string name="date_time_set">Постави</string>
      <string name="date_year_toggle">Наведите годину</string>
-     <string name="default_ringtone">"Одабрана мелодија звона"</string>
      <string name="deleteConfirmation">Овај контакт ће бити избрисан.</string>
      <string name="deleteConfirmationDetail">Избрисати из \"%s\"?</string>
      <string name="deleteConfirmation_title">"Избрисати овај контакт?"</string>
@@ -946,7 +943,6 @@
      <string name="preference_contacts_filter">Конфигуриши попис контаката</string>
      <string name="preference_contacts_more">Организуј контакте</string>
      <string name="preference_contacts_recovery_introduction">Oбнови контакте</string>
-     <string name="preference_dial_pad_touch_tone_default">Задато</string>
      <string name="preference_dial_pad_touch_tone_human">Глас</string>
      <string name="preference_dial_pad_touch_tone_piano">Клавир</string>
      <string name="preference_dial_pad_touch_tone_switch">Тонови бирања</string>
@@ -1262,7 +1258,6 @@
      <string name="service_provider">"Именик"</string>
      <string name="service_provider_detail">Детаљи директоријума</string>
      <string name="set_data_package">Подесите прво план података</string>
-     <string name="set_default">Постави задато</string>
      <string name="set_photo_failed_msg">"Не могу доделити слику."</string>
      <string name="share_error">Овај контакт се не може делити.</string>
      <string name="share_over_limit">"Више од 1000, не могу делити"</string>
@@ -1402,7 +1397,6 @@
      <string name="vcard_import_failed">"Не могу увести vCard %s."</string>
      <string name="vcard_import_request_rejected_message">Захтев за увоз vCard датотеке је одбијен. Покушајте поново касније.</string>
      <string name="vcard_import_will_start_message">Датотека %s ће ускоро бити увезена.</string>
-     <string name="vcard_import_will_start_message_with_default_name">Датотека ће ускоро бити увезена.</string>
      <string name="vcard_info_send_error">"Не могу послати због vCard грешке"</string>
      <string name="vcard_unknown_filename">контакт</string>
      <string name="video_call">Видеопозив</string>

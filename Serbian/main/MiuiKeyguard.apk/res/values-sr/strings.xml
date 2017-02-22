@@ -2,7 +2,6 @@
 <resources>
   <string name="click_to_enter_text">Додирните за преглед</string>
   <string name="confirm_pin_msg">Унесите PIN поново</string>
-  <string name="default_lockscreen_unlock_hint_text">Повуците горе за откључавање</string>
   <string name="delete">Избриши</string>
   <string name="emergency_call_string">SOS</string>
   <string name="experimental_try_string">Покушај</string>

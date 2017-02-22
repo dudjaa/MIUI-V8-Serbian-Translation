@@ -117,7 +117,6 @@
 3.Наш HD видео додатак ће бити аутоматски инсталиран.
 4.Овој услуги треба повезивање са интернетом да би функционисала исправно."</string>
   <string name="declaration_content_td_custom">Овој функцији треба повезивање са интернетом да би функционисала исправно </string>
-  <string name="defaults">Задато</string>
   <string name="delete">Избриши</string>
   <string name="delete_action_text">Избриши (%d)</string>
   <string name="delete_addon">Избриши</string>

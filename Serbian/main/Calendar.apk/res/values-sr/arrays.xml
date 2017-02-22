@@ -32,18 +32,6 @@
         <item>2 дана</item>
         <item>1 недеља</item>
     </string-array>
-	<string-array name="miui_preferences_default_reminder_labels">
-        <item>Без подсетника</item>
-        <item>0 минута</item>
-        <item>5 минута</item>
-        <item>10 минута</item>
-        <item>15 минута</item>
-        <item>30 минута</item>
-        <item>1 сат</item>
-        <item>1 дан</item>
-        <item>2 дана</item>
-        <item>1 недеља</item>
-    </string-array>
     <integer-array name="reminder_minutes_values">
         <item>-1</item>
         <item>0</item>
@@ -58,34 +46,6 @@
         <item>10080</item>
         <item>20160</item>
     </integer-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Без подсетника</item>
-        <item>0 минута</item>
-        <item>5 минута</item>
-        <item>10 минута</item>
-        <item>15 минута</item>
-        <item>30 минута</item>
-        <item>1 сат</item>
-        <item>12 сати</item>
-        <item>1 дан</item>
-        <item>2 дана</item>
-        <item>1 недеља</item>
-        <item>2 недеље</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>720</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-        <item>20160</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Задата ознака земље</item>
         <item>Субота</item>
@@ -219,12 +179,6 @@
         <item>Недеља</item>
         <item>Месец</item>
         <item>Распоред</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Касним само неколико минута.</item>
-        <item>Будите тамо за око 10 минута.</item>
-        <item>Само напред, поцните без мене.</item>
-        <item>Жао ми је не могу стићи. Морамо променити договор.</item>
     </string-array>
    <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Увек</item>

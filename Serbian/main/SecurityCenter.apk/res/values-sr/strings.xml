@@ -11,7 +11,6 @@
   <string name="activity_title_apps_manager">Апл.</string>
   <string name="activity_title_auto_start_manager">Ауто. покретања</string>
   <string name="activity_title_create_shortcut">Пречица</string>
-  <string name="activity_title_default_apps_manager">Задате апл.</string>
   <string name="activity_title_garbage_cleanup">Чистач</string>
   <string name="activity_title_license_manager">Допуштења</string>
   <string name="activity_title_memory">Меморија</string>
@@ -214,7 +213,6 @@
   <string name="hints_virus_app_list_item_summary">Вирус (app)</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_descx_title">Опис:</string>
-  <string name="hints_virus_lib_update_default_summary">Време задњег ажурирања је непознато</string>
   <string name="hints_virus_name_title">Вирус:</string>
   <string name="hints_virus_scan_result_descx">Ова апликација је опасна за сигурност вашег уређаја</string>
   <string name="history_details_title">Детаљи историје</string>
@@ -231,7 +229,6 @@
   <string name="last_check_date_yesterday">"Скенирано јуче "</string>
   <string name="last_check_never_checked">Скенирај сада</string>
   <string name="last_checked_date2">Скенирано пре %d дана</string>
-  <string name="last_checked_default">Скенирано пре %s дана</string>
   <string name="legal_workday">Радни дани</string>
   <string name="legal_workday_invalidate">Пон.-Пет.(Информације о радним данима су истекле)</string>
   <string name="legal_workday_invalidate_message">Додирните за ажурирање информација о радним данима</string>
@@ -452,7 +449,6 @@
   <string name="power_save_low_battery_seekbar_title">Пребаци профил батерије када је преостала енергија мања од %1$d%%</string>
   <string name="power_save_low_battery_title">Штедња батерије</string>
   <string name="power_save_on_time_auto_save_title">Бирач распореда профила</string>
-  <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Крај</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_goout_title">Након овог периода пребаци назад на</string>
@@ -517,7 +513,6 @@
   <string name="summary_cloud_service">Синхронизујте ваше фотографије, контакте, и више на свим вашим уређајима</string>
   <string name="summary_cmcc_app_check">"Неке апликације не могу бити проверене"</string>
   <string name="summary_data_flow">"Избегните прекорачење месечне употребе података од вашег давача услуга"</string>
-  <string name="summary_default_app">"%s није постављена као задата апликација система"</string>
   <string name="summary_dev">Спречите апликације од приступа вашим корисничким подацима</string>
   <string name="summary_flow_notification">Прикажи месечну статистику употребе података у вашем панелу обавештења.</string>
   <string name="summary_flow_purchase_beyond">"Премашили сте ограничену употребу података за овај месец за %sMB."</string>
@@ -550,7 +545,6 @@
   <string name="title_cloud_service">Mi Cloud</string>
   <string name="title_cmcc_app_check">"Провера није потпуна"</string>
   <string name="title_data_flow">Постави упозорење употребе података</string>
-  <string name="title_default_app">"MIUI %s није постављена као задата апликација"</string>
   <string name="title_dev_no">Опције Раз. програмера укључене</string>
   <string name="title_dev_yes">Опције Раз. програмера искључене</string>
   <string name="title_flow_notification">Извештају употребе података</string>
@@ -578,7 +572,6 @@
   <string name="title_virus_update_yes">Аутом. ажурирање дефиниција вируса укључено</string>
   <string name="title_virus_yes">Нема откривених вируса</string>
   <string name="toast_cleaner_cloudscan">Чистач ће користити online дефиниције</string>
-  <string name="toast_default_app">"%1$s поставити као задату система %2$s"</string>
   <string name="toast_flow_notification">Укључена обавештења употребе података</string>
   <string name="toast_garbage_lib">Аутоматска ажурирања за Чистач су укључена</string>
   <string name="toast_network_switch">Ова се апликација не може повезати на интернет</string>

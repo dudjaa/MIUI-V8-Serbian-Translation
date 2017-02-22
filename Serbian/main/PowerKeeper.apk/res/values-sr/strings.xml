@@ -28,7 +28,6 @@
   <string name="hide_mode_desc_title">Уштеда батерије</string>
   <string name="high">Перформансе</string>
   <string name="hints_loading_text">Учитавање…</string>
-  <string name="invalid_size_value">"Не могу добити величину пакета."</string>
   <string name="low">Штедња батерије</string>
   <string name="low_power_auto_title">Ограничи апликације када је батерија мања од 20%</string>
   <string name="media">Мултимедија</string>

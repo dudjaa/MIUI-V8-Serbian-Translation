@@ -86,7 +86,6 @@
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Дан</string>
   <string name="day_view_new_event_hint">Нови догађај</string>
-  <string name="default_reminder_mode">Подсетници</string>
   <string name="delete_calendar">Избрисати</string>
   <string name="delete_label">Избрисати</string>
   <string name="delete_recurring_event_title">Избрисати %s?</string>
@@ -220,19 +219,14 @@
   <string name="preferences_category_general_title">Oпшта подешавања</string>
   <string name="preferences_clear_search_history_summary">"Уклоните све ваше претраге"</string>
   <string name="preferences_clear_search_history_title">Очисти историју претраживања</string>
-  <string name="preferences_default_reminder_default">10</string>
-  <string name="preferences_default_reminder_dialog">Предефинисано време подсетника</string>
-  <string name="preferences_default_reminder_title">Предефинисано време подсетника</string>
   <string name="preferences_general_title">Подешавање изгледа календара</string>
   <string name="preferences_hide_declined_title">Сакриј одбачене догађаје</string>
-  <string name="preferences_home_tz_default">Europe/Београд</string>
   <string name="preferences_home_tz_title">Домаћа временска зона</string>
   <string name="preferences_reminder_title">Обавештења &amp; подсетници</string>
   <string name="preferences_show_week_num_title">Прикажи број недеље</string>
   <string name="preferences_title">Календар</string>
   <string name="preferences_use_home_tz_descrip">Покажи календаре и времена догађаја у вашој почетној временској зони приликом путовања</string>
   <string name="preferences_use_home_tz_title">Употреби дом. врем. зону</string>
-  <string name="preferences_week_start_day_default"/>
   <string name="preferences_week_start_day_dialog">Недеља почиње у</string>
   <string name="preferences_week_start_day_title">Недеља почиње у</string>
   <string name="presence_label">Прикажи ме као</string>

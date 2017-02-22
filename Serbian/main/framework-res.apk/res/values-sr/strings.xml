@@ -45,7 +45,6 @@
   <string name="action_bar_up_description">Кретање нагоре</string>
   <string name="action_menu_overflow_description">Још опција</string>
   <string name="action_mode_done">Готово</string>
-  <string name="activity_chooser_view_dialog_title_default">Избор активности</string>
   <string name="activity_chooser_view_see_all">Прикажи све</string>
   <string name="activity_list_empty">Није пронађена ниједна подударна активност.</string>
   <string name="activity_resolver_use_always">Увек</string>
@@ -179,13 +178,6 @@
   <string name="day_picker_description">Приказ дана у месецу у виду мреже</string>
   <string name="days">дана</string>
   <string name="decline">Одбиј</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-  <string name="defaultVoiceMailAlphaTag">Гласовна пошта</string>
-  <string name="default_audio_route_category_name">Систем</string>
-  <string name="default_audio_route_name">Телефон</string>
-  <string name="default_audio_route_name_dock_speakers">Звучници базне станице</string>
-  <string name="default_audio_route_name_headphones">Слушалице</string>
-  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Избриши</string>
   <string name="deleteText">Избриши</string>
   <string name="deleted_key">Избрисали сте %1$s</string>
@@ -355,7 +347,6 @@
   <string name="imTypeHome">Кућа</string>
   <string name="imTypeOther">Друго</string>
   <string name="imTypeWork">Посао</string>
-  <string name="ime_action_default">Изврши</string>
   <string name="ime_action_done">Готово</string>
   <string name="ime_action_go">Иди</string>
   <string name="ime_action_next">Следеће</string>
@@ -379,7 +370,6 @@
   <string name="js_dialog_before_unload_positive_button">Затвори ову страницу</string>
   <string name="js_dialog_before_unload_title">Потврда навигације</string>
   <string name="js_dialog_title">На страници на адреси „%s“ пише следеће:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Прикључите слушалице да бисте чули изговорене тастере за лозинку.</string>
   <string name="keyboard_password_character_no_headset">Тачка.</string>
   <string name="keyboardview_keycode_alt">Alt</string>
@@ -496,7 +486,6 @@
   <string name="lockscreen_access_pattern_start">Образац је започет</string>
   <string name="lockscreen_airplane_mode_on">Авионски начин</string>
   <string name="lockscreen_battery_short">%d%%</string>
-  <string name="lockscreen_carrier_default">Нема услуге.</string>
   <string name="lockscreen_charged">Напуњено</string>
   <string name="lockscreen_emergency_call">Хитни позив</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Неисправно сте покушали да откључате телефон %d пута. Након још неуспешних покушаја (%d) телефон ће бити ресетован на фабричка подешавања и сви кориснички подаци ће бити изгубљени.</string>
@@ -1396,8 +1385,6 @@
   <string name="restr_pin_incorrect">Нетачно</string>
   <string name="restr_pin_try_later">Покушајте поново касније</string>
   <string name="revoke">Опозови</string>
-  <string name="ringtone_default">Подразумевани звук звона</string>
-  <string name="ringtone_default_with_actual">Подразумевани звук звона (%1$s)</string>
   <string name="ringtone_picker_title">Звукови звона</string>
   <string name="ringtone_silent">Без</string>
   <string name="ringtone_unknown">Непознати звук звона</string>
@@ -1640,7 +1627,6 @@
   <string name="webviewchromium_color_picker_dialog_title">Одабир боје</string>
   <string name="webviewchromium_color_picker_hue">Тон</string>
   <string name="webviewchromium_color_picker_saturation">Засићеност</string>
-  <string name="webviewchromium_color_picker_value">Вредност</string>
   <string name="webviewchromium_copy_to_clipboard_failure_message">Грешка копирања у остави</string>
   <string name="webviewchromium_date_picker_dialog_clear">Избриши</string>
   <string name="webviewchromium_date_picker_dialog_other_button_label">Други</string>
@@ -1697,7 +1683,6 @@
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Коме:</string>
   <string name="wifi_p2p_turnon_message">Покрените Wi-Fi Direct. Тиме ћете искључити клијента/хотспот за Wi-Fi.</string>
-  <string name="wifi_tether_configure_ssid_default">Андроид AP</string>
   <string name="wifi_watchdog_network_disabled">Није могуће повезати са Wi-Fi мрежом</string>
   <string name="wifi_watchdog_network_disabled_detailed">" има лошу интернет везу."</string>
   <string name="wireless_display_route_description">Бежични екран</string>

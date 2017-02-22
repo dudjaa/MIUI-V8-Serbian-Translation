@@ -2,7 +2,6 @@
 <resources>
      <string name="add_frequent_phrases">Додај честе изразе</string>
      <string name="alwaysUsePrompt">"Запамти овај избор"</string>
-     <string name="android_ringtone_default_with_actual">Задати звук звона (%1$s)</string>
      <string name="android_ringtone_silent">Ништа</string>
      <string name="android_ringtone_unknown">Непознати звук звона</string>
      <string name="anniversary_of_lifting_martial_law" />

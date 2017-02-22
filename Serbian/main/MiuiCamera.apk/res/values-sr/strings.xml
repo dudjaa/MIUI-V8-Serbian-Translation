@@ -289,8 +289,6 @@
      <string name="pref_camera_countdown_entry_3s">3с</string>
      <string name="pref_camera_countdown_entry_5s">5с</string>
      <string name="pref_camera_countdown_title">Време</string>
-     <string name="pref_camera_current_k_value">Тренутна вредност</string>
-     <string name="pref_camera_default_suffix">" (задато)"</string>
      <string name="pref_camera_delay_capture_entry_10s">10с</string>
      <string name="pref_camera_delay_capture_entry_3s">3с</string>
      <string name="pref_camera_delay_capture_entry_5s">5с</string>
@@ -497,7 +495,6 @@
      <string name="pref_camera_whitebalance_entry_incandescent">Усијано</string>
      <string name="pref_camera_whitebalance_entry_manual">Ручно</string>
      <string name="pref_camera_whitebalance_entry_measure">Мерење</string>
-     <string name="pref_camera_whitebalance_k_value_title">Вредност К</string>
      <string name="pref_camera_whitebalance_title">Баланс беле</string>
      <string name="pref_camera_zoom_mode_title">Zoom</string>
      <string name="pref_camera_zsl_entry_off">Искључено</string>

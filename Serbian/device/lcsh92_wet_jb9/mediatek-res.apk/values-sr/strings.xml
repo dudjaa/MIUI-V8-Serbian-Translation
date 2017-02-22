@@ -40,9 +40,6 @@
   <string name="ct_net_name">CTNET</string>
   <string name="ct_wap_name">CTWAP</string>
   <string name="day_concat">", "</string>
-  <string name="default_label">Аларм</string>
-  <string name="default_sim_setting_prompt">Задата подешавања сада су:</string>
-  <string name="default_wallpaper_name">Задато</string>
   <string name="delete">Избриши</string>
   <string name="deleteApp">Деинсталирај апликације</string>
   <string name="deleteMail">Архивирај поруке поште и ослободи место за сачувавање</string>
@@ -213,9 +210,7 @@
   <string name="same_imei">Исти IMEI</string>
   <string name="sd_accessing_swtich_user_message">Сви несачувани подаци у власничком рачуну ће бити изгубљени или оштећени.</string>
   <string name="sd_accessing_swtich_user_title">Променити корисника?</string>
-  <string name="sdcard_default_path_change">Задати диск за упис је промењен.</string>
   <string name="sdcard_ready_title">SD картица је спремна</string>
-  <string name="sdcard_select_default_path">Желите ли променити задати диск за упис?</string>
   <string name="searching_simcard">Откривање...</string>
   <string name="serviceClassVideo">Видео запис</string>
   <string name="serviceProvisioned">Услуга је резервисана.</string>

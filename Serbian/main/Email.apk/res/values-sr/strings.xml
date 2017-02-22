@@ -148,7 +148,6 @@
   <string name="account_setup_incoming_server_label">Сервер</string>
   <string name="account_setup_incoming_title">Подешавање рачуна</string>
   <string name="account_setup_incoming_username_label">Корисничко име</string>
-  <string name="account_setup_incoming_username_label_default_hint">Можете укључити домену</string>
   <string name="account_setup_names_account_name_label">Доделите овом рачуну назив (опционо)</string>
   <string name="account_setup_names_headline">Ваш је рачун подешен, а e-пошта стиже!</string>
   <string name="account_setup_names_title">Подешавање рачуна</string>
@@ -174,7 +173,6 @@
   <string name="account_setup_options_mail_window_3days">Последња три данa</string>
   <string name="account_setup_options_mail_window_all">Све</string>
   <string name="account_setup_options_mail_window_auto">Аутоматски</string>
-  <string name="account_setup_options_mail_window_default">Користи задану пост. рачуна</string>
   <string name="account_setup_options_mail_window_label">Дани за синхронизацију</string>
   <string name="account_setup_options_notify_label">Обавести ме кад стигне e-пошта</string>
   <string name="account_setup_options_sync_calendar_label">Синхронизуј календар са овог рачуна</string>
@@ -344,7 +342,6 @@
   <string name="contact_in_filter_call_phone_str">Позив: %s</string>
   <string name="contact_in_filter_title">Долази до њега (ње).</string>
   <string name="contact_info_string">Прикажи податке о контакту за %1$s</string>
-  <string name="contact_info_string_default">Прикажи податке о контакту</string>
   <string name="contact_list_add_btn">Додај</string>
   <string name="contact_list_search_hint">Тражење контаката</string>
   <string name="contact_list_title">Контакти</string>
@@ -391,9 +388,6 @@
   <string name="debug_enable_verbose_logging_label">Омогућити итузетно verbose записе?</string>
   <string name="debug_force_one_minute_refresh_label">Форсирај 1-минутно освежавање за POP/IMAP</string>
   <string name="debug_title">Отклањање грешака</string>
-  <string name="default_">ЗАДАНО</string>
-  <string name="default_setup">ЗАДАТА ПОДЕШАВАЊА</string>
-  <string name="default_signature">Послато са мог Mi Телефона</string>
   <string name="delete">Избриши</string>
   <string name="delete_conversation_hint_message">%1$d %2$s избрисано</string>
   <string name="deleted">Избрисано</string>
@@ -624,7 +618,6 @@
   <string name="meeting_where">Где: %s</string>
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Привићи</string>
-  <string name="menu_att_mgr_order_default">Задано</string>
   <string name="menu_att_mgr_order_mime">поређај по формату</string>
   <string name="menu_att_mgr_order_name">Поређај по називу</string>
   <string name="menu_att_mgr_order_rev_date">Поређај по времену</string>

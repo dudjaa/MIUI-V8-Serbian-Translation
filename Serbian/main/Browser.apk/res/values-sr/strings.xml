@@ -290,8 +290,6 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
      <string name="download_btn_select_none">Poništi odabir</string>
      <string name="download_complete">Преузимање датотеке завршено</string>
      <string name="download_completed">Preuzeto</string>
-     <string name="download_default_path_txt">Запамти овај одабир</string>
-     <string name="download_dialog_default_path_invalid">Неваљана путања преузимања, користиће се задња путања</string>
      <string name="download_dialog_file_length_hint_txt">"Величина датотеке: "</string>
      <string name="download_dialog_file_length_lessthan1kb">Мање од 1K</string>
      <string name="download_dialog_file_length_nolength_error_txt">"Не могу преузети"</string>
@@ -659,19 +657,11 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
      <string name="pref_enable_novels">Књиге</string>
      <string name="pref_enable_videos">Видеозаписи</string>
      <string name="pref_exit_on_closing_last_tab_enabled_title">Изађи затварањем задње картице</string>
-     <string name="pref_extras_reset_default">Врати на задато</string>
-     <string name="pref_extras_reset_default_dlg">Вратити подешавања на задате вредности?</string>
-     <string name="pref_extras_reset_default_summary">Врати на задате вредности</string>
-     <string name="pref_extras_reset_default_title">Врати на задато</string>
      <string name="pref_extras_send_feedback">Pošalji Pov. informacije</string>
      <string name="pref_extras_title">Напредно</string>
      <string name="pref_extras_title_version">Верзија</string>
      <string name="pref_extras_website_settings">Подешавања web-локације</string>
      <string name="pref_extras_website_settings_summary">Напредна подешавања за појединачне web-локације</string>
-     <string name="pref_file_downlaod_save_is_reset_default_settings">"Спреми датотеке на задату локацију Претраживача"</string>
-     <string name="pref_file_downlaod_save_reset_default_settings">Врати на задату локацију</string>
-     <string name="pref_file_download_default_path_prefix">Задата локација: %s</string>
-     <string name="pref_file_download_save_modify_default_path">Локација преузетих датотека</string>
      <string name="pref_file_download_save_title">Преузимања</string>
      <string name="pref_fling_on_border">Prijeđite prstom od ruba</string>
      <string name="pref_fling_on_border_enabled">Повуците од руба за измену картица</string>
@@ -778,7 +768,6 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
      <string name="quicklink_saved_before">Страница додата на почетну страницу</string>
      <string name="quicklink_user_define_webpage_title">Име</string>
      <string name="quicklink_user_define_webpage_url">URL</string>
-     <string name="quicklinks_group_default_subtitle">Празно</string>
      <string name="quicklinks_management">Популарно</string>
      <string name="quicklinks_most_visited">Додај на почетну страницу</string>
      <string name="quicklinks_most_visited_subtitle">Прикажи недавно посећене странице на новој картици</string>
@@ -977,7 +966,6 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
      <string name="v5_edit_mode_title_empty">0 одабрано</string>
      <string name="v5_select_all">Одабери све</string>
      <string name="version_check_button_checking">Проверавам...</string>
-     <string name="version_check_button_default">Провери за ажурирања</string>
      <string name="version_check_button_download_failed">Настави са преузимањем</string>
      <string name="version_check_button_downloading">Преузимање...</string>
      <string name="version_check_button_install">Инсталирај</string>

@@ -21,7 +21,6 @@
   <string name="respond_via_sms_canned_response_4">Не могу да причам,назовите касније.</string>
   <string name="respond_via_sms_confirmation_format">Порука је послата на број %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Брзи одговор</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Враћање задате Апликације.</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Брзи одговори</string>
   <string name="respond_via_sms_setting_title_2">Управљај Брзим одговорима</string>

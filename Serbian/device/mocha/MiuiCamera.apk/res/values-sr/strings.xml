@@ -226,8 +226,6 @@
   <string name="pref_camera_coloreffect_entry_yesteryear"/>
   <string name="pref_camera_coloreffect_title">Филтер</string>
   <string name="pref_camera_contrast_title">Контраст</string>
-  <string name="pref_camera_current_k_value">Тренутна вредност</string>
-  <string name="pref_camera_default_suffix">(задато)</string>
   <string name="pref_camera_denoise_title">Одшумење</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
@@ -399,7 +397,6 @@
   <string name="pref_camera_whitebalance_entry_incandescent">Усијан</string>
   <string name="pref_camera_whitebalance_entry_manual">Ручно</string>
   <string name="pref_camera_whitebalance_entry_measure">Мерење</string>
-  <string name="pref_camera_whitebalance_k_value_title">Вредност K Баланса беле</string>
   <string name="pref_camera_whitebalance_title">Баланс беле</string>
   <string name="pref_camera_zsl_entry_off">Искључено</string>
   <string name="pref_camera_zsl_entry_on">Укључено</string>

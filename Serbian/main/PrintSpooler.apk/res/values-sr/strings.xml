@@ -31,7 +31,6 @@
   <string name="print_add_printer">Додај штампач</string>
   <string name="print_button">Штампај</string>
   <string name="print_dialog">Дијалог за штампање</string>
-  <string name="print_error_default_message">Није могуће генерисати задатак за штампање</string>
   <string name="print_error_printer_unavailable">Штампач тренутно није доступан.</string>
   <string name="print_error_retry">Покушајте поново</string>
   <string name="print_forget_printer">Заборави штампач</string>

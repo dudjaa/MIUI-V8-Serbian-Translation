@@ -17,7 +17,6 @@
   <string name="connected_headset">Повезан</string>
   <string name="connecting_headset">Повезивање</string>
   <string name="could_not_use_app">"Не могу корстити %1$s."</string>
-  <string name="default_pay_app_removed">Ваша пожељна услуга за Додирни &amp; Плати је уклоњена. Изабрати другу?</string>
   <string name="disconnected_headset">Прекинута веза</string>
   <string name="disconnecting_headset">Прекид везе</string>
   <string name="failed_to_enable_bt">Омогућавање Bluetootha није било могуће</string>

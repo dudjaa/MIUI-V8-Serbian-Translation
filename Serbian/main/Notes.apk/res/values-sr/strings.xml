@@ -21,7 +21,6 @@
   <string name="attachment_gallery">"Галерија"</string>
   <string name="button_new_note">"Нова белешка"</string>
   <string name="call_record_folder_name">Белешке позива</string>
-  <string name="default_folder_name">"Мапа без назива"</string>
   <string name="dlg_desc_confirm_alarm_silent">Активни аларми неце звонити када је тон звона утишан.</string>
   <string name="dlg_info_creating_message">Израда поруке…</string>
   <string name="dlg_title_confirm_alarm_silent">Утишај аларме</string>
@@ -90,7 +89,6 @@
   <string name="sns_choose_quality_high">Висока (%1$s)</string>
   <string name="sns_choose_quality_low">Ниска</string>
   <string name="sns_choose_quality_title">Одаберите квалитет слике</string>
-  <string name="sns_content_default">Дели слику</string>
   <string name="sns_desc_preview_wechat">Преглед WeChat поруке</string>
   <string name="sns_desc_preview_weibo">Преглед Weibo поруке</string>
   <string name="sns_footer_text">Креирано са Mi Notes</string>

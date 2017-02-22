@@ -276,7 +276,6 @@
      <string name="SysOpt_Boost_Receiver">Позадина</string>
      <string name="app_name">Управљач допуштења</string>
      <string name="current_permission_template">%1$s од %2$s</string>
-     <string name="default_permission_description">извођење непознате радње</string>
      <string name="grant_confirm_question">Желите ли да одобрите следећа допуштења? Она ће добити приступ:</string>
      <string name="grant_dialog_button_allow">Допусти</string>
      <string name="grant_dialog_button_deny">Одбиј</string>

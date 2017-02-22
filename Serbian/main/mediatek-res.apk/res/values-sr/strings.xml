@@ -47,7 +47,6 @@
   <string name="ct_net_name">CTNET</string>
   <string name="ct_wap_name">CTWAP</string>
   <string name="data_conn_only">Само веза за пренос података</string>
-  <string name="default_wallpaper_name">A-GPS подразумевана ниска</string>
   <string name="delete">Избриши</string>
   <string name="deleteMail">Направите резервну копију поште и ослободите меморију</string>
   <string name="deleteMails">Избриши пошту</string>
@@ -136,9 +135,7 @@
   <string name="save_password_never">Никада не питај</string>
   <string name="save_password_notnow">Не сада</string>
   <string name="save_password_remember">Запамти подешавања</string>
-  <string name="sdcard_default_path_change">Подразумевани диск за писање промењен.</string>
   <string name="sdcard_ready_title">SD картица спремна</string>
-  <string name="sdcard_select_default_path">Желите ли да промените подразумевани диск за писање?</string>
   <string name="searching_simcard">Откривање...</string>
   <string name="serviceClassVideo">Видео</string>
   <string name="serviceProvisioned">Услуга добављена.</string>
