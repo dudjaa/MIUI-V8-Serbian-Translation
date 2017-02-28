@@ -215,7 +215,7 @@
      <string name="preferences_general_title">Додатна подешавања</string>
      <string name="preferences_title">Подешавање Покретача</string>
      <string name="process" />
-     <string name="recommend_apps_default_title">Prazno</string>
+     <string name="recommend_apps_default_title">Празно</string>
      <string name="recommend_apps_notice">Препоручене аплик.</string>
      <string name="recommend_apps_notice_nodata">Промовисане аплик. (Нема података)</string>
      <string name="recommend_apps_switch_summary">Прикажи препоручене апликације на дну екрана.</string>
