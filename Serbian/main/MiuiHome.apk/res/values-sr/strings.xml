@@ -63,6 +63,10 @@
      <string name="current_preview">Преглед</string>
      <string name="current_wallpaper">Тренутна</string>
      <string name="custom_wallpaper_picker">Прилагођено</string>
+     <string name="default_folder_title_game">Игре</string>
+     <string name="default_folder_title_recommend">Разно</string>
+     <string name="default_folder_title_security">Систем</string>
+     <string name="default_folder_title_tools">Алати</string>
      <string name="delete">Избриши</string>
      <string name="delete_screen">Избриши тастер екрана</string>
      <string name="delete_wallpaper_message">Избрисати слику позадине: %1$d?</string>
@@ -211,6 +215,7 @@
      <string name="preferences_general_title">Додатна подешавања</string>
      <string name="preferences_title">Подешавање Покретача</string>
      <string name="process" />
+     <string name="recommend_apps_default_title">Prazno</string>
      <string name="recommend_apps_notice">Препоручене аплик.</string>
      <string name="recommend_apps_notice_nodata">Промовисане аплик. (Нема података)</string>
      <string name="recommend_apps_switch_summary">Прикажи препоручене апликације на дну екрана.</string>

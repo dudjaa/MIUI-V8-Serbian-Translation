@@ -294,7 +294,7 @@
      </plurals>
      <plurals name="quickly_discovery_message_format">
         <item quantity="other">Пронађено фотографија: %1$d</item>
-        <item quantity="one">Пронашена нова фотографија</item>
+        <item quantity="one">Пронађена нова фотографија</item>
      </plurals>
      <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">Укупно %d фотографија</item>

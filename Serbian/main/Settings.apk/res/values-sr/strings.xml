@@ -52,6 +52,7 @@
      <string name="accessibility_screen_magnification_enable">Покрети повећања</string>
      <string name="accessibility_screen_magnification_summary">"Када је ова функција укључена, можете да увећавате и да умањујете приказ троструким додиром на екран.Док сте у увећаном приказу, можете:  “Помицати поглед: Повуците два ли више прстију преко екрана.   „Подесите ниво увећања: Привуците два или више прста или их раширите."    "Можете такође привремено увећати подручије испод прста тако да додирнете и задржите додир. У овом увећаном стању, можете повлачити прстом како би истражили друге делове екрана. Подигните прст за повратак на предходно стање.     Напомена: Троструки додир за увећање вреди свуда осим на тастаури у навигационој траци."</string>
      <string name="accessibility_screen_magnification_title">Покрети за увећање</string>
+     <string name="accessibility_service_default_description">Није дан опис.</string>
      <string name="accessibility_service_no_apps_message">TalkBack пружа говорне повратне информације како би помогао слепим корисницима и корисницима са слабим видом. Да ли желите да га бесплатно инсталирате са Андроид Market-а?</string>
      <string name="accessibility_service_no_apps_title">Потребан вам је читач екрана?</string>
      <string name="accessibility_services_title">Услуге</string>
@@ -216,6 +217,7 @@
      <string name="app_launch_domain_links_title">Везе апликације</string>
      <string name="app_launch_open_domain_urls_summary">Отвори без постављања питања</string>
      <string name="app_launch_open_domain_urls_title">Отвори подржане везе</string>
+     <string name="app_launch_other_defaults_title">Остала подразумевана подешавања</string>
      <string name="app_launch_supported_domain_urls_title">Подржане везе</string>
      <string name="app_link_open_always">Отвори у овој апликацији</string>
      <string name="app_link_open_ask">Питај сваки пут</string>
@@ -343,6 +345,7 @@
      <string name="background_location_requests_title">Допусти позадинско лоцирање</string>
      <string name="background_location_select_apps">Одабери све</string>
      <string name="background_process_stop_description">Ово је стари процес апликације који још увек траје у случају да опет буде потребан. Обично нема разлога за његово заустављање.</string>
+     <string name="backup_configure_account_default_summary">Ниједан рачун тренутно не прави сигурносне копије података</string>
      <string name="backup_configure_account_title">Резервна копија налога</string>
      <string name="backup_data_summary">Прављење резервних копија података о апликацијама, Wi-Fi лозинки и других подешавања на Google серверима</string>
      <string name="backup_data_title">Прављење резервних копија мојих података</string>
@@ -603,6 +606,8 @@
      <string name="bluetooth_pb_remember_choice">Не питај поново</string>
      <string name="bluetooth_permission_request">Захтев за Bluetooth дозволу</string>
      <string name="bluetooth_phonebook_request">Захтев за приступ телефонском именику</string>
+     <string name="bluetooth_pin_values_hint">Обично 0000 или 1234</string>
+     <string name="bluetooth_pin_values_hint_16_digits">Мора садржати 16 цифри</string>
      <string name="bluetooth_preference_connected_devices">Повезани уређаји</string>
      <string name="bluetooth_preference_device_settings">Подешавања уређаја</string>
      <string name="bluetooth_preference_found_devices">Доступни уређаји</string>
@@ -1098,6 +1103,18 @@
      <string name="debug_networking_category">Умрежавање</string>
      <string name="debug_view_attributes">Омогући преглед атрибута приказа</string>
      <string name="defalut_launcher_title">Задати покретач</string>
+     <string name="default_app">(Подразумевано)</string>
+     <string name="default_apps_title">Подразумеване апликације</string>
+     <string name="default_assist_none">Ништа</string>
+     <string name="default_assist_title">Апликација-помоћник</string>
+     <string name="default_browser_title">Апликација претраживача</string>
+     <string name="default_browser_title_none">Нема подразумеваног претраживача</string>
+     <string name="default_date_format">dd/MM/yyyy</string>
+     <string name="default_emergency_app">Апликација за хитне случајеве</string>
+     <string name="default_input_method">Одабери подразумевану тастатуру</string>
+     <string name="default_phone_title">Апликација Телефон</string>
+     <string name="default_sound">Задати звук</string>
+     <string name="default_usb_mode">USB веза</string>
      <string name="delete">Избриши</string>
      <string name="delete_fingerprint_confirm_msg">Уклоните отисак прста?</string>
      <string name="delete_fingerprint_text">Уклони</string>
@@ -1134,6 +1151,7 @@
      <string name="device_display_layout_title">Функције</string>
      <string name="device_edit_title">Преименуј уређај</string>
      <string name="device_feedback">Пошаљи повр. информације о уређају</string>
+     <string name="device_info_default">Непознато</string>
      <string name="device_info_label">Информације о уређају</string>
      <string name="device_info_not_available">Није доступно</string>
      <string name="device_info_settings">Статус телефона</string>
@@ -1724,6 +1742,7 @@
      <string name="internal_storage">Интерна меморија</string>
      <string name="internal_storage_sentence">интерна меморија</string>
      <string name="invalid_location">Локација за инсталирање није важећа.</string>
+     <string name="invalid_size_value">Није могуће израчунати величину пакета.</string>
      <string name="ipaddr_label">IPaddr:</string>
      <string name="join_many_items_first">%1$s, %2$s</string>
      <string name="join_many_items_last">%1$s и %2$s</string>
@@ -1736,6 +1755,7 @@
      <string name="key_position_cat">Положај тастера</string>
      <string name="key_settings">Дугмад</string>
      <string name="key_settings_title">Дугмад</string>
+     <string name="keyboard_layout_default_label">Подразумевано</string>
      <string name="keyboard_layout_dialog_setup_button">Подеси распореде тастатуре</string>
      <string name="keyboard_layout_dialog_switch_hint">Да бисте пребацили, притисните Control-Spacebar</string>
      <string name="keyboard_layout_dialog_title">Избор распореда тастатуре</string>
@@ -1757,6 +1777,8 @@
      <string name="keywords_app_permissions">аплкације допуштења сигурност</string>
      <string name="keywords_battery">напајање</string>
      <string name="keywords_date_and_time">сат</string>
+     <string name="keywords_default_apps">апликације подразумевано</string>
+     <string name="keywords_default_phone_app">подразумевани бројчаник телефона</string>
      <string name="keywords_display">екран додирни екран</string>
      <string name="keywords_display_auto_brightness">затамњење екрана додирни екран</string>
      <string name="keywords_display_brightness_level">затамњење екрана додирни екран</string>
@@ -1772,6 +1794,7 @@
      <string name="keywords_location">у близини локација историја извештавања</string>
      <string name="keywords_location_mode">тачност</string>
      <string name="keywords_lockscreen">уписати лозинку узорак PIN</string>
+     <string name="keywords_more_default_sms_app">текстуалне поруке слање SMS-a поруке слање порука</string>
      <string name="keywords_more_mobile_networks">мобилни оператер бежично</string>
      <string name="keywords_network_reset">враћање на задато враћање на фабричка подешавања поништавање</string>
      <string name="keywords_printing">штампач</string>
@@ -1797,7 +1820,10 @@
      <string name="last_time_used_label">Последња употреба</string>
      <string name="later">Касније</string>
      <string name="lattice_smartcover_title">Решеткасти предњи поклопац</string>
+     <string name="launch_by_default">Отвори према подразумеваним подешавањима</string>
      <string name="launch_count_label">Изброј</string>
+     <string name="launch_defaults_none">Нема подразумеваних подешавања</string>
+     <string name="launch_defaults_some">Подешена су нека подразумевана подешавања</string>
      <string name="launcher_auto_fill_empty_title">Ауто. попуни празна места</string>
      <string name="launcher_settings_title">MIUI Покретач</string>
      <string name="launcher_title">Поч. екран</string>
@@ -1845,6 +1871,7 @@
      <string name="local_backup_password_toast_validation_failure">Подешавање резерне лозинке није успело</string>
      <string name="local_backup_section_summary">Сиг. копија подешавања система, детаља рачуна, и апликација</string>
      <string name="local_backup_section_title">Локална меморија</string>
+     <string name="locale_default">Подразумевано</string>
      <string name="locale_settings">Локалнo</string>
      <string name="location_access_off">Искључено</string>
      <string name="location_access_on">Укључено</string>
@@ -2331,6 +2358,9 @@
      <string name="nfc_how_it_works_title">Плаћање на терминалу</string>
      <string name="nfc_more_title">Више...</string>
      <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
+     <string name="nfc_payment_default">Подразумевано плаћање</string>
+     <string name="nfc_payment_default_not_set">Није подешено</string>
+     <string name="nfc_payment_favor_default">Увек</string>
      <string name="nfc_payment_favor_foreground">Дај предност апликацији у предњем плану</string>
      <string name="nfc_payment_favor_open">Осим када је отворена нека друга апликација за плаћање</string>
      <string name="nfc_payment_how_it_works">Начин рада</string>
@@ -2338,7 +2368,11 @@
      <string name="nfc_payment_menu_item_add_service">Пронађи апликације</string>
      <string name="nfc_payment_no_apps">Само додирните да бисте платили</string>
      <string name="nfc_payment_pay_with">На терминалу \"Додирни и плати\" плати на следећи начин:</string>
+     <string name="nfc_payment_set_default">Желите ли да увек употребљавате апликацију %1$s за плаћање на начин \"Додирни и плати\"?</string>
+     <string name="nfc_payment_set_default_instead_of">Желите ли да увек употребљавате апликацију %1$s уместо апликације %2$s приликом плаћања на начин \"Додирни и плати\"?</string>
+     <string name="nfc_payment_set_default_label">Желите ли да подесите као жељени начин?</string>
      <string name="nfc_payment_settings_title">Додирни и плати</string>
+     <string name="nfc_payment_use_default">Користи подразумевано</string>
      <string name="nfc_quick_toggle_summary">Омогућавање размене података када телефон додирне други уређај</string>
      <string name="nfc_quick_toggle_title">NFC</string>
      <string name="nfc_se_route_title">Позиција сигурног елемента</string>
@@ -2356,9 +2390,10 @@
      <string name="no_condition_providers">Није инсталиран ни један пружаоц услуга.</string>
      <string name="no_connected_devices">Nema povezanih uređaja</string>
      <string name="no_data_usage">Нема употребе података</string>
+     <string name="no_default_apps">Нема подразумеваних аплиакација.</string>
      <string name="no_device_admins">Нема доступних администратора уређаја</string>
-     <string name="no_internet_access_remember">Више не питај за ту мрежу</string>        
-	 <string name="no_internet_access_text">Та мрежа нема приступ интернету. Желите ли да останете повезани?</string>
+     <string name="no_internet_access_remember">Више не питај за ту мрежу</string>
+     <string name="no_internet_access_text">Та мрежа нема приступ интернету. Желите ли да останете повезани?</string>
      <string name="no_media_button_receiver">"Не"</string>
      <string name="no_memory_use_summary">У последња 3 сата није било употребе меморије</string>
      <string name="no_nearby_wifi">"Није откривена мрежа."</string>
@@ -2771,6 +2806,7 @@
      <string name="pref_volume_wake_title">Пробуди тастерима за гласноћу</string>
      <string name="preference_change_password_title">Промени лозинку</string>
      <string name="preferred_app_settings">Задато</string>
+     <string name="preferred_app_settings_default">Подразумевано</string>
      <string name="preferred_app_settings_not_selected">Није одабрано</string>
      <string name="preferred_app_settings_reset">"Врати на задато"</string>
      <string name="preferred_app_settings_reset_button">Врати</string>
@@ -2903,6 +2939,7 @@
      <string name="provision_skip">Прескочи</string>
      <string name="proxy_action_text">Завршено</string>
      <string name="proxy_clear_text">Обриши</string>
+     <string name="proxy_defaultView_text">Врати подразумевано</string>
      <string name="proxy_error">Пажња</string>
      <string name="proxy_error_dismiss">Потврди</string>
      <string name="proxy_error_empty_host_set_port">Поље за порт мора да буде празно ако је поље за назив хоста празно.</string>
@@ -3043,6 +3080,8 @@
      <string name="resetting_second_space_passwd">Ресетовање лозинке Другог простора </string>
      <string name="resolver_settings_label">Сортирај</string>
      <string name="resource_ringtone_volume_mute">Тон звона је искључен</string>
+     <string name="restore_default_apn">Враћање подразумеваних APN подешавања</string>
+     <string name="restore_default_apn_completed">Поништавање подразумеваних подешавања APN-a довршено.</string>
      <string name="restr_pin_enter_admin_pin">Унесите PIN администратора</string>
      <string name="restrict_background_data_dialog_summary">"Апликације које се изводе у позадини нећете бити у могућности да преузмете нове поруке. Да ли стварно желите омогућити податке у позадини?"</string>
      <string name="restrict_background_data_notification_summary">Апликације се не могу повезати на мрежу ако је ограничено коришћење позадинских података</string>
@@ -3651,6 +3690,9 @@
      <string name="smartcover_sensitive_summary">Закључајте/откључајте телфон аутоматски користећи паметну футролу</string>
      <string name="smartcover_sensitive_title">Начин паметне футроле</string>
      <string name="sms_application_title">Задата апликација за SMS</string>
+     <string name="sms_change_default_dialog_text" formatted="false">Користити апликацију %s уместо апликације %s као своју апликацију за SMS?</string>
+     <string name="sms_change_default_dialog_title">Желите ли да промените апликацију за SMS?</string>
+     <string name="sms_change_default_no_previous_dialog_text">Користити апликацију %s као своју апликацију за SMS?</string>
      <string name="sms_delivered_sound_dialog_title">Одаберите звук за испоручене SMS поруке</string>
      <string name="sms_delivered_sound_title">Порука испоручена</string>
      <string name="sms_messages_title">SMS поруке</string>
@@ -4003,6 +4045,16 @@
      <string name="trusted_credentials_user_tab">Крисник</string>
      <string name="try_again">Покушајте поново.</string>
      <string name="tts_data_installed_summary">Гласови потребни за синтезу говора већ су исправно инсталирани</string>
+     <string name="tts_default_lang_summary">Подешава језик говора</string>
+     <string name="tts_default_lang_title">Језик</string>
+     <string name="tts_default_pitch_summary">Утиче на тон изговореног текста</string>
+     <string name="tts_default_pitch_title">Висина гласа</string>
+     <string name="tts_default_rate_summary">Брзина којом се изговара текст</string>
+     <string name="tts_default_rate_title">Брзина говора</string>
+     <string name="tts_default_sample_string">Ово је пример синтезе говора</string>
+     <string name="tts_default_settings_section">Подразумевана подешавања</string>
+     <string name="tts_default_synth_summary">Подеси алат за синтезу говора који ће се употребљавати за говорни текст</string>
+     <string name="tts_default_synth_title">Подразумевани алат</string>
      <string name="tts_engine_error">Алат који сте одабрали не може се покренути.</string>
      <string name="tts_engine_error_config">Конфигуриши</string>
      <string name="tts_engine_error_reselect">Одаберите други алат</string>
@@ -4194,6 +4246,8 @@
      <string name="usb_use_charging_only">Само пуњење</string>
      <string name="usb_use_file_transfers">Пренос датотека (MTP)</string>
      <string name="usb_use_photo_transfers">Пренос фотографија (PTP)</string>
+     <string name="use_default_tts_settings_summary">Доња подразумевана подешавања надјачавају подешавање апликација</string>
+     <string name="use_default_tts_settings_title">Увек користи моја подешавања</string>
      <string name="use_location_summary">Допусти да Google употребљава вашу локацију за побољшање резултата претраживања и других услуга</string>
      <string name="use_location_title">Локација &amp; Google претраживање</string>
      <string name="use_nuplayer">Користи NuPlayer (експ.)</string>
@@ -4776,6 +4830,7 @@
      <string name="wifi_switch_to_gsm_title">Користити GSM?</string>
      <string name="wifi_tether_checkbox_text">Преносни хотспот</string>
      <string name="wifi_tether_configure_ap_text">Подешавање хотспота</string>
+     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
      <string name="wifi_tether_configure_subtext">%1$s %2$s преносни хотспот</string>
      <string name="wifi_tether_enabled_subtext">Активан је преносни хотспот %1$s</string>
      <string name="wifi_tether_failed_subtext">Гршка преносног хотспота</string>
@@ -4876,6 +4931,7 @@
      <string name="zen_mode_automation_settings_title">Аутоматска правила</string>
      <string name="zen_mode_calls">Позиви</string>
      <string name="zen_mode_configure_rule">Конфигурисање правила</string>
+     <string name="zen_mode_default_option">Док то не искључите</string>
      <string name="zen_mode_delete_rule">Избриши правило</string>
      <string name="zen_mode_delete_rule_button">Избриши</string>
      <string name="zen_mode_delete_rule_confirmation">Желите ли да избришете правило \"%1$s\"?</string>

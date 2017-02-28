@@ -375,6 +375,7 @@
      <string name="dcim_viva_pics">VIVA</string>
      <string name="debugging_tip">Генерисање debug података</string>
      <string name="defalt_local_mobile">Мобилно</string>
+     <string name="default_album_name">Нови албум</string>
      <string name="delete">Избриши</string>
      <string name="delete_album_failed">"Не моги избрисати албум."</string>
      <string name="delete_album_msg_format">Избрисати албум \"%2$s\" %1$s %3$s?</string>
@@ -1112,6 +1113,7 @@
      <string name="slideshow_interval_dialog_title">Интервал мора бити већи од 0 секунди</string>
      <string name="slideshow_interval_invalid">Интервал мора бити између 1 и 3600 секунди</string>
      <string name="slideshow_interval_title">Прикажи сваки слајд на</string>
+     <string name="slideshow_interval_value">%1$d сек.</string>
      <string name="slideshow_repeat_mode">Поновити</string>
      <string name="slim_after_backuped_summary">Замените фотографије пуне резолуције на уређају са оптимизованим верзијама након што их сачувате на Mi Cloud. Фотографије у пуној резолуцији ће и даље бити доступне на Mi Cloudu. То може уштедети много локалног простора за складиштење.</string>
      <string name="slim_after_backuped_title">Оптимизуј локалну меморију након направљене Сиг. копије</string>

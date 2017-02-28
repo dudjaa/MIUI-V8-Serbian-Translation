@@ -7,11 +7,13 @@
      <string name="application_desc">Апликација</string>
      <string name="applications_search_label">Апликације</string>
      <string name="apps_search_activity" />
+     <string name="baidu_search_url_from_default">https://www.google.rs/search?q=%s&amp;tn=ins</string>
      <string name="baidu_search_url_from_input">https://www.google.rs/search?q=%s&amp;tn=ins</string>
      <string name="baidu_search_url_from_launcher">https://www.google.rs/search?q=%s&amp;tn=ins</string>
      <string name="baidu_search_url_from_systemui">https://www.google.rs/search?q=%s&amp;tn=ins</string>
      <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
      <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+     <string name="choose_search_engine">Одабери подразумевани web претраживач</string>
      <string name="clear_history">Избриши историју</string>
      <string name="clear_shortcuts">Обриши пречицу</string>
      <string name="clear_shortcuts_agree">Обриши пречице</string>
@@ -32,6 +34,8 @@
      <string name="cta_declaration_negative_text">Излаз</string>
      <string name="cta_declaration_positive_text">Дозвољавам</string>
      <string name="cta_declaration_title">Услови Пружања Услуге</string>
+     <string name="default_hint">Тражи апликације, музику, видеозаписе, књиге…</string>
+     <string name="default_search_domain">.google.com</string>
      <string name="device_settings_category_title">Избрижи пречице</string>
      <string name="distance_unit_kilometer">км</string>
      <string name="distance_unit_meter">м</string>
@@ -102,7 +106,7 @@
      <string name="show_more">Више</string>
      <string name="suggest_open_app_failed">"Не могу да отворим ову апликацију"</string>
      <string name="swipe_up_summary">Повуците горе за отварање глобалног претраживања</string>
-     <string name="swipe_up_title">ПОвуците горе</string>
+     <string name="swipe_up_title">Повуците горе</string>
      <string name="switch_application">Апликације</string>
      <string name="switch_browser">Претраживач</string>
      <string name="switch_contacts">Контакти</string>
