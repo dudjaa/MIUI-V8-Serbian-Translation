@@ -350,8 +350,6 @@
   <string name="power_consume_rank_hardware">Хардвер</string>
   <string name="power_consume_rank_software">Апликације</string>
   <string name="power_consume_rank_title">Коришћење батерије</string>
-  <string name="power_consume_total_hardware">Хардвер: %1$d%%</string>
-  <string name="power_consume_total_software">Апликације: %1$d%%</string>
   <string name="power_customize_giveup_change">Одбацити промене?</string>
   <string name="power_customizer_cancel">Одустани</string>
   <string name="power_customizer_delete">Избриши</string>
