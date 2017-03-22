@@ -2741,7 +2741,7 @@
      <string name="permit_write_settings">Допусти измену подешавања система</string>
      <string name="personal_data_section_title">Лични подаци</string>
      <string name="personal_device_admin_title">Лично</string>
-     <string name="personal_section_title">Osobno</string>
+     <string name="personal_section_title">ЛИЧНО</string>
      <string name="phone_call_noise_suppression">Утишај буку током позива</string>
      <string name="phone_info_label">Информације о телефону</string>
      <string name="phone_language">Језик</string>
@@ -3966,7 +3966,7 @@
      <string name="system_alert_window_on">Да</string>
      <string name="system_alert_window_settings">Повлачење преко других апликација</string>
      <string name="system_alert_window_summary" formatted="false">Апликације које се могу повлачити изнад других апликација: %d/%d</string>
-     <string name="system_and_device_section_title">Sustav &amp; uređaj</string>
+     <string name="system_and_device_section_title">СИСТЕМ &amp; УРЕЂАЈ</string>
      <string name="system_app_settings">Апликације система</string>
      <string name="system_backup_section_title">Сиг. копија</string>
      <string name="system_package">Ажурирање система није могуће инсталирати на спољном медију.</string>
